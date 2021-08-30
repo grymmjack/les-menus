@@ -1,0 +1,212 @@
+NI Maschine 2
+"maschine 2 VST"
+--
+NI Battery 4
+Battery 4 VST
+--
+
+//NI Kontakt
+DRUMLAB
+DRUMLAB.adg
+WA Evolution
+EVOLUTION.adg
+WA Drumvolution
+DRUMVOLUTION.adg
+WA Revolution
+REVOLUTION.adg
+WA Revolution Percussion
+REVOLUTION PERCUSSION.adg
+--
+ABBEY ROAD 50s Drummer - Autumn Kit
+ABBEY ROAD 50s DRUMMER - AUTUMN KIT.adg
+ABBEY ROAD 50s Drummer - Spring Kit
+ABBEY ROAD 50s DRUMMER - SPRING KIT.adg
+ABBEY ROAD 60s Drummer - Early Kit
+ABBEY ROAD 60s DRUMMER - EARLY KIT.adg
+ABBEY ROAD 60s Drummer - Late Kit
+ABBEY ROAD 60s DRUMMER - LATE KIT.adg
+ABBEY ROAD 70s Drummer - Open Kit
+ABBEY ROAD 70s DRUMMER - OPEN KIT.adg
+ABBEY ROAD 70s Drummer - Tight Kit
+ABBEY ROAD 70s DRUMMER - TIGHT KIT.adg
+ABBEY ROAD 80s Drummer - Black Kit
+ABBEY ROAD 80s DRUMMER - BLACK KIT.adg
+ABBEY ROAD 80s Drummer - Chrome Kit
+ABBEY ROAD 80s DRUMMER - CHROME KIT.adg
+ABBEY ROAD MODERN Drummer - Sparkle Kit
+ABBEY ROAD MODERN DRUMMER - SPARKLE KIT.adg
+ABBEY ROAD MODERN Drummer - White Kit
+ABBEY ROAD MODERN DRUMMER - WHITE KIT.adg
+ABBEY ROAD VINTAGE Drummer - Ebony Kit
+ABBEY ROAD VINTAGE DRUMMER - EBONY KIT.adg
+ABBEY ROAD VINTAGE Drummer - Ivory Kit
+ABBEY ROAD VINTAGE DRUMMER - IVORY KIT.adg
+STUDIO DRUMMER - Garage Kit
+STUDIO DRUMMER - GARAGE KIT.adg
+STUDIO DRUMMER - Session Kit
+STUDIO DRUMMER - SESSION KIT.adg
+STUDIO DRUMMER - Stadium Kit
+STUDIO DRUMMER - STADIUM KIT.adg
+..
+
+//NI Reaktor
+Polyplex Kick
+!POLYPLEX-KICK
+Polyplex Snare
+!POLYPLEX-SNARE
+Polyplex Percussion
+!POLYPLEX-PERCUSSION
+Polyplex One Shot
+!POLYPLEX-ONESHOT
+Polyplex User
+!POLYPLEX-USER
+--
+TRK-01 Kick
+!TRK-01-KICK.adg
+Heavyocity $C-TOOLS Capsule
+$C-TOOLS-CAPSULE.adg
+Heavyocity GRID II
+$GRID II.adg
+--
+Aerobic
+"_AEROBIC.adg"
+Beat Slicer 2
+"_BEATSLICER2.adg"
+Limelite
+"_LIMELITE.adg"
+Massive
+"_MASSIVE.adg"
+Memory Drum 2
+"_MEMORY DRUM 2.adg"
+Rhythmaker
+"_RHYTHMAKER.adg"
+Sine Beats 2
+"_SINEBEATS2.adg"
+..
+
+//REASON Devices
+Dr. OctoRex
+DR. OCTOREX.adg
+Klang Tuned Percussion
+KLANG TUNED PERCUSSION.adg
+Kong
+KONG.adg
+REASON Drum Kits
+REASON DRUM KITS.adg
+Redrum
+REDRUM.adg
+Rytmik Drum machine
+RYTMIK DRUM MACHINE.adg
+Umpf Club Drums
+UMPF CLUB DRUMS.adg
+Umpf Retro Beats
+UMPF RETRO BEATS.adg
+..
+
+//KORG Gadget
+AbuDhabi - Dynamic Loop Slicer
+AbuDhabi
+Bilbao - Lightning Sampler Player (Drums)
+Bilbao VST
+Gladstone - Acoustic Drum Module
+Gladstone VST
+London - Hypersonic PCM Drum Module (Modern Drum Styles)
+London VST
+Otorii - SEGA 16-bit DRUM MACHINE (Arcade Drums and SFX)
+Otorii VST
+Recife - Futuristic Drum Module (16 Pad Drum Machine)
+Recife VST
+Stockholm - Octo-Sample Loop Player (Propellerhead Dr. Octo Rex Clone)
+Stockholm VST
+..
+
+//Beatskillz
+Bolly Maharaja
+BollyMaharaja VST
+Bolly Maharaja 2
+BollyMaha2 VST
+Breakdance 64
+BRKDANCE 64 VST
+Retro Hit
+RetroHit64 VST
+Soultastik Drums
+SLTASTIk VST
+Synthwave Drums
+SYDRUMS64_WIN VST
+..
+
+//Superwave
+D-707
+D-707 VST
+D-727
+D-727 VST
+D-808
+D-808 VST
+D-909
+D-909 VST
+Tinypops (KORG Minipops Clone)
+Tinypops VST 
+..
+
+--
+
+Sonic Charge Microtonic
+"Microtonic VST"
+Sonic Charge Microtonic Multi
+"Microtonic Multi VST"
+--
+Sugarbytes Drum Computer
+DrumComputer VST
+Sugarbytes Egoist
+Egoist VST
+--
+Steinberg Backbone
+Backbone VST
+--
+AudioRealism ADM
+ADM_x64 VST
+Waldorf Attack
+Attack VST
+Plugin Boutique BigKick
+BigKick VST
+UJam Beatmaker DOPE
+BM-DOPE VST
+e-phonic Drumatic 4
+drumatic 4 (x64)
+d16 Drumazon (TR-909 Clone)
+Drumazon VST
+d16 Nepheton (TR-808 Clone)
+Nepheton VST
+AIR Boom
+Boom_x64 VST
+AIR Drumsynth 500
+Drumsynth 500 VST
+AIR Strike
+Strike_x64 VST
+AIR Transfuser
+Transfuser_x64 VST
+Inear Display Ephemere (FM)
+Ephemere VST
+IL Drumaxx
+IL Drumaxx VST
+IL Slicex
+IL Slicex VST
+iZotope BreakTweaker
+iZotope BreakTweaker VST
+iZotope iDrum
+iZotope iDrum VST
+Audiothing Latin Percussion
+LatinPercussion_x64 VST
+Audiothing SR-88
+SR88_x64 VST
+Arturia Spark
+"Spark VST"
+HY Slicer
+HY-Slicer(x64) VST
+
+--
+
+Analogue Drums
+"analogue drums.amxd"
+
+..

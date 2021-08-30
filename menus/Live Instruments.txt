@@ -1,0 +1,41 @@
+//Subtractive
+Analog
+Analog
+Bass
+Bass
+Poli
+Poli
+Multi
+Multi.amxd
+..
+
+//FM
+Operator
+Operator
+..
+
+//PM
+Collision ( Solid: Beam | Marimba | String | Membrane | Plate | Pipe | Tube )
+Collision
+Electric ( Piano )
+Electric
+Tension ( String: Bow | Hammer | Hammer Bouncing | Plectrum )
+Tension
+..
+
+//Samplers
+Sampler
+Sampler
+Simpler
+Simpler
+Impulse
+Impulse
+--
+More Simpler
+More Simpler.amxd
+..
+
+//Wavetable
+Wavetable
+Wavetable Instrument
+..

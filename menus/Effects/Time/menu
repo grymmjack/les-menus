@@ -1,0 +1,136 @@
+Audio FX
+    EQ
+    Filter
+    --
+    Compression
+    Expansion
+    Gate
+    Transient
+    --
+    Delay
+    Pan
+    Reverb
+    Stereo 
+    --
+    Tremolo
+    Vibrato
+    --
+    Pitch
+    Spectral
+    Granular
+    --
+    Time
+    Scratch
+    --
+    Chorus
+    Flanger
+    Phaser
+    --
+    Utility
+    Visual
+    --
+    Multi FX
+
+MIDI FX
+    Arpegiators
+    Chords
+    Envelopes
+    Key Follow
+    LFOs
+    Pitch
+    Sequencers
+    Velocity
+
+Instruments
+    Synthesis
+        Hybrid
+        --
+        Modular
+        --
+        Additive
+        FM / PM
+        Granular
+        Physical Modeling
+        Spectral
+        Subtractive
+        Wavetable
+    Samplers
+    ROMplers
+
+Drums
+    Groove Boxes
+    Kits
+    Machines
+    --
+    Polyplex
+        Kick
+        Snare
+        Percussion
+        One Shot
+        User
+    Synthesis
+        Live DS
+            Kick
+            Snare
+            Clap
+            Hihat
+            FM
+            Clang
+            Cymbal
+            Sampler
+        Max DrumSynths
+            Kick
+            Snare
+            Snare 2
+            Clap
+            Hihat
+            Shaker
+            Tom
+            FM 2
+            FM Perc
+            Clave
+            Glass
+            Cymbal
+            Karplus Strong
+        --
+        Maschine
+            Kick
+                Bold
+                Dusty
+                Grit
+                Maple
+                Push
+                Rasper
+                Snappy
+                Sub Noise
+                Sub Thick
+                Sub Thin
+                Tronic
+            Snare
+                Airy
+                Bit
+                Breaker
+                Chrome
+                Iron
+                Pow
+                Sharp
+                Vintage
+                Volt
+            Clap
+            Hihat
+                Circuit
+                Hybrid
+                Memory
+                Silver
+            Shaker
+            Tom
+                Floor
+                Fractal
+                High
+                Tronic
+            Percussion
+                Fractal
+                Kettle
+            Cymbal
+                Crash
+                Ride
