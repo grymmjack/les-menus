@@ -1,7 +1,4 @@
-/Live Drums
-Drum Rack
-Drum Rack
---
+//Drum Synths
 DS Kick
 DS Kick
 DS Snare
@@ -21,11 +18,11 @@ DS Cymbal
 DS Sampler
 DS Sampler
 --
-DrumSynthKick
+DrumSynth Kick
 DrumSynth Kick.amxd
-DrumSynthSnare
+DrumSynth Snare
 DrumSynth Snare.amxd
-DrumSynthSnare 2
+DrumSynth Snare 2
 DrumSynth Snare2.amxd
 DrumSynth Clap
 DrumSynth Clap.amxd
@@ -47,3 +44,4 @@ DrumSynth Cymbal
 DrumSynth Cymbal.amxd
 DrumSynth Karplus Strong
 DrumSynth Kplus.amxd
+..

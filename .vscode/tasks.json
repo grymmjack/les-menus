@@ -6,7 +6,7 @@
         {
             "label": "Compile new Menu",
             "type": "shell",
-            "command": "${workspaceFolder}/menus/compile.sh",
+            "command": "${workspaceFolder}/menus/_compile.sh",
             "options": {
                 "cwd": "${workspaceFolder}/menus"
             },
