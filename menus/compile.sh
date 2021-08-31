@@ -1,5 +1,4 @@
 #!/bin/bash
-pwd
 USER_DIR=$(wslpath "$(env.exe | grep USERPROFILE | cut -d= -f2 | sed $'s/\r//')")
 MENU_FILE="${USER_DIR}/Documents/LES/menuconfig.ini"
 echo "MENU_FILE=${MENU_FILE}"
