@@ -1,4 +1,141 @@
 //Subtractive
+REASON Subtractor
+SUBTRACTOR.adg
+REASON Thor
+THOR.adg
+REASON Monotone Bass Synth
+MONOTONE BASS SYNTH.adg
+--
+NI Monark
+!MONARK.adg
+Retrologue 2
+Retrologue VST
 Sylenth 1
-Sylenth 1 VST
+Sylenth1 VST
+Dagger
+Dagger VST
+Sunrizer
+Sunrizer_x64 VST
+Novation V-Station
+V-Station VST
+kHs ONE
+kHs ONE VST
+ReDominator
+ReDominator1x VST
+Carbon Electra
+Carbon Electra VST
+; Novation Bass Station
+; Bass-Station-Stereo 64 VST
+; Superwave Tarkus (KORG MS-2000)
+; Tarkus VST
+; Knifonium
+; Knif Audio Knifonium VST
+Brainworx Oberhausen
+bx_oberhausen VST
+Largo
+Largo VST
+Ultra Analog VA-3
+Ultra Analog VA-3 VST
+Waves Element
+Element Stereo VST
+--
+TAL Bassline-101
+TAL-Bassline-101-64 VST
+TAL J-8
+TAL-J-8-64 VST
+TAL U-NO-LX
+TAL-U-NO-LX-V2-64 VST
+--
+Cherry Audio CA2600
+CA2600 VST
+Cherry Audio DCO-106
+DCO-106 VST
+Cherry Audio Eight Voice
+Eight Voice VST
+Cherry Audio Polymode
+Cherry Audio Polymode Synthesizer VST
+Cherry Audio PS-20
+PS-20 VST
+Cherry Audio Surrealistic MG-1 Plus
+Surrealistic MG-1 Plus VST
+--
+KORG MS-20
+"MS-20 VST"
+KORG Polysix
+"Polysix VST"
+KORG MonoPoly
+"MonoPoly" VST
+KORG Prophecy
+"Prophecy VST"
+ARP Oddysey
+ARP_ODYSSEY VST
+KORG Gadget Berlin (Mono-Sync Synth)
+Berlin VST
+KORG Gadget Dublin (Mono Synth)
+Dublin VST
+--
+Arturia ARP 2600 V3
+ARP 2600 V3 VST
+Arturia CS-80 V3
+CS-80 V3 VST
+Arturia Jun-6 V
+Jun-6 V VST
+Arturia Jup-8 V4
+Jup-8 V4 VST
+Arturia Matrix-12 V2
+Matrix-12 V2 VST
+Arturia Mini V3
+Mini V3 VST
+Arturia OB-Xa V
+OB-Xa V VST
+Arturia Prophet V3
+Prophet V3 VST
+Arturia SEM V2
+SEM V2 VST
+Arturia Synthi V
+Synthi V VST
+..
+
+//Granular
+Steinberg PadShop Pro 2
+Padshop
+REASON Malstrom
+MALSTROM.adg
+REASON Grain
+"REASON GRAIN.adg"
+NI Skanner XT
+!Skanner XT.adg
+iZotope Iris 2
+Izotope Iris 2 VST
+..
+
+//Wavetable
+Serum
+Serum_x64 VST
+Waldorf PPG Wave 2
+PPG Wave 2.V VST
+Waldorf PPG Wave 3
+PPG_Wave_V3 VST
+KORG Warszawa
+Warszawa VST
+Waves CODEX
+CODEX Stereo VST
+..
+
+//Samplers
+TAL Sampler
+TAL-Sampler-64 VST
+..
+
+//Modulars
+KarmaFX Synth
+KarmaFX Synth VST
+Voltage Modular
+Voltage Modular VST
+Multiphonics CV-1
+Multiphonics CV-1 VST
+Arturia Modular V3
+Arturia Modular V3 VST
+Arturia Buchla Easel V
+Buchla Easel V VST
 ..

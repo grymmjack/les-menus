@@ -1,0 +1,39 @@
+//Delay && Loop
+Beat Repeat
+Beat Repeat
+..
+
+//Drive & Color
+Amp
+Amp
+..
+
+//Dynamics
+Color Limiter
+Color Limiter
+..
+
+//EQ && Filters
+Auto Filter
+Auto Filter
+..
+
+//Modulators
+Envelope Follower
+Envelope Follower
+..
+
+//Pitch && Modulation
+Auto Pan
+Auto Pan
+..
+
+//Reverb && Resonance
+Convolution Reverb
+Convolution Reverb
+..
+
+//Utilities
+Spectrum
+Spectrum
+..

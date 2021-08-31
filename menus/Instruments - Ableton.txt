@@ -7,11 +7,13 @@ Poli
 Poli
 Multi
 Multi.amxd
+--
 ..
 
 //FM
 Operator
 Operator
+--
 ..
 
 //PM
@@ -21,6 +23,7 @@ Electric ( Piano )
 Electric
 Tension ( String: Bow | Hammer | Hammer Bouncing | Plectrum )
 Tension
+--
 ..
 
 //Samplers
@@ -33,9 +36,21 @@ Impulse
 --
 More Simpler
 More Simpler.amxd
+--
 ..
 
 //Wavetable
 Wavetable
 Wavetable Instrument
+--
+..
+
+//Granular
+Granulator II
+Granulator II
+Granulator II Follow
+GranulatorFollow II
+Vector Grain
+Vector Grain
+--
 ..
