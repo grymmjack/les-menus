@@ -1,4 +1,8 @@
-//Favorites
-OTT
-OTT.adv
+//Distortion
+The Abuser
+The Abuser VST
+..
+//Reverb
+XenoVerb
+XenoVerb VST
 ..

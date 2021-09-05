@@ -1,0 +1,21 @@
+//Reason Players
+Beat Map
+BEAT MAP.adg
+Drum Sequencer
+DRUM SEQUENCER.adg
+Dual Arpeggio
+DUAL ARPEGGIO.adg
+Note Echo
+NOTE ECHO.adg
+Pattern Mutator
+PATTERN MUTATOR.adg
+Polystep Sequencer
+POLYSTEP SEQUENCER.adg
+Quad Note Generator
+QUAD NOTE GENERATOR.adg
+Scales And Chords
+SCALES AND CHORDS.adg
+--
+Robotic Bean - Sequences
+ROBOTIC BEAN - SEQUENCES.adg
+..

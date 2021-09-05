@@ -24,12 +24,6 @@ ReDominator
 ReDominator1x VST
 Carbon Electra
 Carbon Electra VST
-; Novation Bass Station
-; Bass-Station-Stereo 64 VST
-; Superwave Tarkus (KORG MS-2000)
-; Tarkus VST
-; Knifonium
-; Knif Audio Knifonium VST
 Brainworx Oberhausen
 bx_oberhausen VST
 Largo
@@ -95,7 +89,14 @@ SEM V2 VST
 Arturia Synthi V
 Synthi V VST
 ..
-
+//Hybrid
+Absynth 5
+Absynth 5 VST
+..
+//Additive
+AIR Loom
+Loom_x64 VST
+..
 //Granular
 Steinberg PadShop Pro 2
 Padshop
@@ -108,8 +109,7 @@ NI Skanner XT
 iZotope Iris 2
 Izotope Iris 2 VST
 ..
-
-//Wavetable
+//Wave Table
 Serum
 Serum_x64 VST
 Waldorf PPG Wave 2
@@ -121,13 +121,11 @@ Warszawa VST
 Waves CODEX
 CODEX Stereo VST
 ..
-
 //Samplers
 TAL Sampler
 TAL-Sampler-64 VST
 ..
-
-//Modulars
+//Modular
 KarmaFX Synth
 KarmaFX Synth VST
 Voltage Modular

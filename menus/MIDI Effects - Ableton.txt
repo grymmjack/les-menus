@@ -1,2 +1,28 @@
 Arpeggiator
 Arpeggiator
+Chord
+Chord
+Envelope MIDI
+Envelope MIDI
+Expression Control
+Expression Control
+Melodic Steps
+Melodic Steps
+MIDI Monitor
+MIDI Monitor
+MPE Control
+MPE Control
+Note Echo
+Note Echo
+Note Length
+Note Length
+Pitch
+Pitch
+Random
+Random
+Rotating Rhythm Generator
+Rotating Rhythm Generator
+Scale
+Scale
+Velocity
+Velocity

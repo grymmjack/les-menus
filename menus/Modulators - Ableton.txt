@@ -1,0 +1,12 @@
+Envelope Follower
+Envelope Follower
+Envelope MIDI
+Envelope MIDI
+LFO
+"LFO.amxd"
+LFO MIDI
+"LFO MIDI.amxd"
+Shaper
+Shaper
+Expression Control
+Expression Control

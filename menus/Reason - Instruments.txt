@@ -1,0 +1,72 @@
+//Reason Instruments
+Algoritm
+ALGORITM - FM SYNTHESIZER.adg
+A-List Acoustic Guitarist
+A-LIST ACOUSTIC GUITARIST.adg
+A-List Acoustic Guitarist - Fingerpicking Nylon
+A-LIST ACOUSTIC GUITARIST - FINGERPICKING NYLON.adg
+A-List Electric Guitarist - Pop Chords
+A-LIST ELECTRIC GUITARIST - POP CHORDS.adg
+A-List Electric Guitarist - Power Chords
+A-LIST ELECTRIC GUITARIST - POWER CHORDS.adg
+Complex-1
+COMPLEX-1 - MODULAR SYNTHESIZER.adg
+Dr. Octorex - Loop Player
+DR. OCTOREX - LOOP PLAYER.adg
+Europa
+EUROPA - SHAPESHIFTING SYNTHESIZER.adg
+Friktion
+FRIKTION - MODELED STRINGS.adg
+Grain
+GRAIN - SAMPLE MANIPULATOR.adg
+Humana
+HUMANA - VOCAL ENSEMBLE.adg
+ID8
+ID8 - INSTRUMENT DEVICE.adg
+Klang
+KLANG - TUNED PERCUSSION.adg
+Kong
+KONG - DRUM DESIGNER.adg
+Layers
+LAYERS.adg
+Layers Wave Edition
+LAYERS WAVE EDITION.adg
+Malstrom
+MALSTROM - GRAINTABLE SYNTHESIZER.adg
+Mimic
+MIMIC - CREATIVE SAMPLER.adg
+Monotone
+MONOTONE - BASS SYNTH.adg
+NN-19
+NN-19 - DIGITAL SAMPLER.adg
+NN-XT
+NN-XT - ADVANCED SAMPLER.adg
+Pangea
+PANGEA - WORLD INSTRUMENTS.adg
+Parsec
+PARSEC - SPECTRAL SYNTHESIZER.adg
+Processed Pianos
+PROCESSED PIANOS.adg
+Radical Keys Electric Piano
+RADICAL KEYS ELECTRIC PIANO.adg
+Radical Piano
+RADICAL PIANO.adg
+Reason Drum Kits
+REASON DRUM KITS.adg
+Reason Electric Bass
+REASON ELECTRIC BASS.adg
+Redrum
+REDRUM - DRUM COMPUTER.adg
+Rytmik
+RYTMIK - DRUM MACHINE.adg
+Scenic
+SCENIC - HYBRID INSTRUMENT.adg
+Subtractor
+SUBTRACTOR - ANALOG SYNTHESIZER.adg
+Thor
+THOR - POLYSONIC SYNTHESIZER.adg
+Umpf - Club Drums
+UMPF - CLUB DRUMS.adg
+Umpf - Retro Beats
+UMPF - RETRO BEATS.adg
+..

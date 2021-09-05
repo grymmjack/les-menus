@@ -1,0 +1,127 @@
+//Reaktor Audio Effects
+///Molekular
+Molekular
+!MOLEKULAR.adg
+--
+Angel Delay
+MOLEKULAR - Angel Delay.adg
+Band Delays
+MOLEKULAR - Band Delays.adg
+Chorus
+MOLEKULAR - Chorus.adg
+Cloud Delay
+MOLEKULAR - Cloud Delay.adg
+Dark Forces
+MOLEKULAR - Dark Forces.adg
+Dual Comb
+MOLEKULAR - Dual Comb.adg
+Dual Delay
+MOLEKULAR - Dual Delay.adg
+Dual Filter
+MOLEKULAR - Dual Filter.adg
+Dub Delay
+MOLEKULAR - Dub Delay.adg
+Equalizer
+MOLEKULAR - Equalizer.adg
+Filter
+MOLEKULAR - Filter.adg
+Filterbank
+MOLEKULAR - Filterbank.adg
+Freezer
+MOLEKULAR - Freezer.adg
+Frequency Shift
+MOLEKULAR - Frequency Shift.adg
+Half Wave
+MOLEKULAR - Half Wave.adg
+Iteratron
+MOLEKULAR - Iteratron.adg
+Level
+MOLEKULAR - Level.adg
+Lo Fi
+MOLEKULAR - Lo Fi.adg
+Metaverb
+MOLEKULAR - Metaverb.adg
+Modulo Fry
+MOLEKULAR - Modulo Fry.adg
+Phlanger
+MOLEKULAR - Phlanger.adg
+Pitch Shift
+MOLEKULAR - Pitch Shift.adg
+Plagiarism
+MOLEKULAR - Plagiarism.adg
+reSonitarium
+MOLEKULAR - reSonitarium.adg
+Reversoid
+MOLEKULAR - Reversoid.adg
+Ryuchi
+MOLEKULAR - Ryuchi.adg
+Slam Dunk
+MOLEKULAR - Slam Dunk.adg
+Spektral Hold
+MOLEKULAR - Spektral Hold.adg
+Spektral Shift
+MOLEKULAR - Spektral Shift.adg
+Spektral Smear
+MOLEKULAR - Spektral Smear.adg
+Track OSC
+MOLEKULAR - Track OSC.adg
+Track Pulses
+MOLEKULAR - Track Pulses.adg
+Trails
+MOLEKULAR - Trails.adg
+Vokoder
+MOLEKULAR - Vokoder.adg
+Wave Fold
+MOLEKULAR - Wave Fold.adg
+..
+The Mouth
+!THE MOUTH.adg
+The Finger
+!THE FINGER.adg
+Prism FX
+!PRISM-FX.adg
+--
+///EnFX
+EnFX
+_ENFX.adg
+--
+EnFX Delay
+_ENFX-DELAY.adg
+EnFX Filter
+_ENFX-FILTER.adg
+EnFX Distortion
+_ENFX-DISTORTION.adg
+..
+Analogic Filter Box
+_ANALOGIC FILTER BOX.adg
+Anima
+_ANIMA.adg
+Banane Electrique
+_BANANE ELECTRQUE.adg
+Classic Vocoder
+_CLASSIC VOCODER.adg
+Cyan
+_CYAN.adg
+Echomania
+_ECHOMANIA.adg
+Flat Blaster
+_FLAT BLASTER.adg
+Flat Blaster 2
+_FLAT BLASTER 2.adg
+Fusion Reflections
+_FUSION REFLECTIONS.adg
+Grainstates FX
+_GRAINSTATES FX.adg
+Longflow
+_LONGFLOW.adg
+Resochord
+_RESOCHORD.adg
+Space Master
+_SPACE MASTER.adg
+Space Master 2
+_SPACE MASTER 2.adg
+Spring Tank
+_SPRING TANK.adg
+Two Knees Compressor
+_TWO KNEES COMPRESSOR.adg
+..

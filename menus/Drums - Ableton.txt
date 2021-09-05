@@ -1,4 +1,7 @@
 //Drum Synths
+Analogue Drums
+"analogue drums.amxd"
+--
 DS Kick
 DS Kick
 DS Snare

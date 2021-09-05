@@ -1,0 +1,42 @@
+NI Maschine
+"maschine 2 VST"
+NI Maschine FX
+"maschine 2 FX VST"
+NI Reaktor 6
+Reaktor 6 VST
+NI Kontakt
+"Kontakt VST"
+NI Battery 4
+"Battery 4 VST"
+NI Komplete Kontrol
+Komplete Kontrol VST
+NI Guitar Rig Pro
+Guitar Rig 5 VST
+--
+Glitch 2
+Glitch2 VST
+--
+Ohmicide
+Ohmicide_vstwin_x64 VST
+--
+Sylenth 1
+Sylenth1 VST
+--
+xfer Serum
+Serum_x64 VST
+xfer Serum FX
+SerumFX_x64 VST
+xfer OTT
+OTT_x64 VST
+Ableton OTT
+OTT.adv
+--
+The Drop
+The Drop 64 VST
+The Glue
+The Glue 64 VST
+--
+Voltage Modular
+Voltage Moduler VST
+Voltage Modular FX
+Voltage Modular FX VST

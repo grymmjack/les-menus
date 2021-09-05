@@ -1,147 +1,15 @@
-//Maschine MK3
-Maschine
-"Maschine 2 VST"
-Maschine FX
-"Maschine 2 FX VST"
---
-
-///Kick
-Bold
-Kick - Bold.adg
-Dusty
-Kick - Dusty.adg
-Grit
-Kick - Grit.adg
-Maple
-Kick - Maple.adg
-Push
-Kick - Push.adg
-Rasper
-Kick - Rasper.adg
-Snappy
-Kick - Snappy.adg
-Sub Noise
-Kick - Sub - Noise.adg
-Sub Thick
-Kick - Sub - Thick.adg
-Sub Thin
-Kick - Sub - Thin.adg
-Tronic
-Kick - Tronic.adg
-..
-..
-
-///Snare
-Airy
-Snare - Airy.adg
-Bit
-Snare - Bit.adg
-Breaker
-Snare - Breaker.adg
-Chrome
-Snare - Chrome.adg
-Iron
-Snare - Iron.adg
-Pow
-Snare - Pow.adg
-Sharp
-Snare - Sharp.adg
-Vintage
-Snare - Vintage.adg
-Volt
-Snare - Volt.adg
-..
-..
-
-///Clap
-Clap
-Maschine - CLAP.adg
-..
-..
-
-///Hihat
-Circuit
-Hi-hat - Circuit.adg
-Hybrid
-Hi-hat - Hybrid.adg
-Memory
-Hi-hat - Memory.adg
-Silver
-Hi-hat - Silver.adg
-..
-..
-
-///Shaker
-Shaker
-"Maschine - Shaker.adg"
-..
-..
-
-///Tom
-Floor
-"Tom - Floor.adg"
-Fractal
-"Tom - Fractal.adg"
-High
-"Tom - High.adg"
-Tronic
-"Tom - Tronic.adg"
-..
-..
-
-///Percussion
-Fractal
-Percussion - Fractal.adg
-Kettle
-Percussion - Kettle.adg
-..
-..
-
-///Cymbal
-Crash
-"Cymbal - Crash.adg"
-Ride
-"Cymbal - Ride.adg"
-..
-..
-
-//Polyplex
-Polyplex Kick
-!POLYPLEX-KICK
-Polyplex Snare
-!POLYPLEX-SNARE
-Polyplex Percussion
-!POLYPLEX-PERCUSSION
-Polyplex One Shot
-!POLYPLEX-ONESHOT
-Polyplex User
-!POLYPLEX-USER
-..
-
-//TRK-01
-TRK-01 Kick
-"!TRK-01-KICK.adg"
-..
-
---
-NI Maschine 2
-"maschine 2 VST"
-NI Battery 4
-Battery 4 VST
---
-
 //NI Kontakt
-DRUMLAB
-DRUMLAB.adg
-WA Evolution
-EVOLUTION.adg
 WA Drumvolution
 DRUMVOLUTION.adg
+WA Evolution
+EVOLUTION.adg
 WA Revolution
 REVOLUTION.adg
 WA Revolution Percussion
 REVOLUTION PERCUSSION.adg
 --
+DRUMLAB
+DRUMLAB.adg
 ABBEY ROAD 50s Drummer - Autumn Kit
 ABBEY ROAD 50s DRUMMER - AUTUMN KIT.adg
 ABBEY ROAD 50s Drummer - Spring Kit
@@ -173,7 +41,6 @@ STUDIO DRUMMER - SESSION KIT.adg
 STUDIO DRUMMER - Stadium Kit
 STUDIO DRUMMER - STADIUM KIT.adg
 ..
-
 //NI Reaktor
 Polyplex Kick
 !POLYPLEX-KICK
@@ -185,13 +52,8 @@ Polyplex One Shot
 !POLYPLEX-ONESHOT
 Polyplex User
 !POLYPLEX-USER
---
 TRK-01 Kick
 !TRK-01-KICK.adg
-Heavyocity $C-TOOLS Capsule
-$C-TOOLS-CAPSULE.adg
-Heavyocity GRID II
-$GRID II.adg
 --
 Aerobic
 "_AEROBIC.adg"
@@ -207,44 +69,150 @@ Rhythmaker
 "_RHYTHMAKER.adg"
 Sine Beats 2
 "_SINEBEATS2.adg"
+--
+Heavyocity $C-TOOLS Capsule
+$C-TOOLS-CAPSULE.adg
+Heavyocity GRID II
+$GRID II.adg
 ..
-
+//NI Maschine
+NI Maschine
+"maschine 2 VST"
+NI Maschine FX
+"maschine 2 FX VST"
+--
+///Kick
+Bold
+Kick - Bold.adg
+Dusty
+Kick - Dusty.adg
+Grit
+Kick - Grit.adg
+Maple
+Kick - Maple.adg
+Push
+Kick - Push.adg
+Rasper
+Kick - Rasper.adg
+Snappy
+Kick - Snappy.adg
+Sub Noise
+Kick - Sub - Noise.adg
+Sub Thick
+Kick - Sub - Thick.adg
+Sub Thin
+Kick - Sub - Thin.adg
+Tronic
+Kick - Tronic.adg
+..
+..
+///Snare
+Airy
+Snare - Airy.adg
+Bit
+Snare - Bit.adg
+Breaker
+Snare - Breaker.adg
+Chrome
+Snare - Chrome.adg
+Iron
+Snare - Iron.adg
+Pow
+Snare - Pow.adg
+Sharp
+Snare - Sharp.adg
+Vintage
+Snare - Vintage.adg
+Volt
+Snare - Volt.adg
+..
+..
+///Clap
+Clap
+Maschine - CLAP.adg
+..
+..
+///Hihat
+Circuit
+Hi-hat - Circuit.adg
+Hybrid
+Hi-hat - Hybrid.adg
+Memory
+Hi-hat - Memory.adg
+Silver
+Hi-hat - Silver.adg
+..
+..
+///Shaker
+Shaker
+"Maschine - Shaker.adg"
+..
+..
+///Tom
+Floor
+"Tom - Floor.adg"
+Fractal
+"Tom - Fractal.adg"
+High
+"Tom - High.adg"
+Tronic
+"Tom - Tronic.adg"
+..
+..
+///Percussion
+Fractal
+Percussion - Fractal.adg
+Kettle
+Percussion - Kettle.adg
+..
+..
+///Cymbal
+Crash
+"Cymbal - Crash.adg"
+Ride
+"Cymbal - Ride.adg"
+..
+..
+NI Battery 4
+Battery 4 VST
+--
 //REASON Devices
-Dr. OctoRex
-DR. OCTOREX.adg
-Klang Tuned Percussion
-KLANG TUNED PERCUSSION.adg
-Kong
-KONG.adg
-REASON Drum Kits
-REASON DRUM KITS.adg
 Redrum
 REDRUM.adg
+Kong
+KONG.adg
+Dr. OctoRex
+DR. OCTOREX.adg
 Rytmik Drum machine
 RYTMIK DRUM MACHINE.adg
+--
 Umpf Club Drums
 UMPF CLUB DRUMS.adg
 Umpf Retro Beats
 UMPF RETRO BEATS.adg
+--
+Klang Tuned Percussion
+KLANG TUNED PERCUSSION.adg
+--
+REASON Drum Kits
+REASON DRUM KITS.adg
 ..
-
 //KORG Gadget
 AbuDhabi - Dynamic Loop Slicer
 AbuDhabi
-Bilbao - Lightning Sampler Player (Drums)
+Bilbao - Lightning Sampler Player
 Bilbao VST
 Gladstone - Acoustic Drum Module
 Gladstone VST
-London - Hypersonic PCM Drum Module (Modern Drum Styles)
+London - Hypersonic PCM Drum Modul
 London VST
-Otorii - SEGA 16-bit DRUM MACHINE (Arcade Drums and SFX)
+Otorii - Arcade Drum Machine
 Otorii VST
-Recife - Futuristic Drum Module (16 Pad Drum Machine)
+Recife - Futuristic Drum Module
 Recife VST
-Stockholm - Octo-Sample Loop Player (Propellerhead Dr. Octo Rex Clone)
+Stockholm - Octo-Sample Loop Player
 Stockholm VST
 ..
-
 //Beatskillz
 Bolly Maharaja
 BollyMaharaja VST
@@ -259,7 +227,6 @@ SLTASTIk VST
 Synthwave Drums
 SYDRUMS64_WIN VST
 ..
-
 //Superwave
 D-707
 D-707 VST
@@ -272,9 +239,7 @@ D-909 VST
 Tinypops (KORG Minipops Clone)
 Tinypops VST 
 ..
-
 --
-
 Sonic Charge Microtonic
 "Microtonic VST"
 Sonic Charge Microtonic Multi
@@ -288,20 +253,6 @@ Egoist VST
 Steinberg Backbone
 Backbone VST
 --
-AudioRealism ADM
-ADM_x64 VST
-Waldorf Attack
-Attack VST
-Plugin Boutique BigKick
-BigKick VST
-UJam Beatmaker DOPE
-BM-DOPE VST
-e-phonic Drumatic 4
-drumatic 4 (x64)
-d16 Drumazon (TR-909 Clone)
-Drumazon VST
-d16 Nepheton (TR-808 Clone)
-Nepheton VST
 AIR Boom
 Boom_x64 VST
 AIR Drumsynth 500
@@ -310,26 +261,38 @@ AIR Strike
 Strike_x64 VST
 AIR Transfuser
 Transfuser_x64 VST
-Inear Display Ephemere (FM)
-Ephemere VST
+--
+d16 Drumazon (TR-909 Clone)
+Drumazon VST
+d16 Nepheton (TR-808 Clone)
+Nepheton VST
+--
 IL Drumaxx
 IL Drumaxx VST
 IL Slicex
 IL Slicex VST
+--
 iZotope BreakTweaker
 iZotope BreakTweaker VST
 iZotope iDrum
 iZotope iDrum VST
+--
 Audiothing Latin Percussion
 LatinPercussion_x64 VST
 Audiothing SR-88
 SR88_x64 VST
+--
+AudioRealism ADM
+ADM_x64 VST
+Waldorf Attack
+Attack VST
+e-phonic Drumatic 4
+drumatic 4 (x64)
+Inear Display Ephemere (FM)
+Ephemere VST
+UJam Beatmaker DOPE
+BM-DOPE VST
 Arturia Spark
 "Spark VST"
 HY Slicer
 HY-Slicer(x64) VST
-
---
-
-Analogue Drums
-"analogue drums.amxd"

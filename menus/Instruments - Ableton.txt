@@ -1,4 +1,3 @@
-//Subtractive
 Analog
 Analog
 Bass
@@ -7,50 +6,28 @@ Poli
 Poli
 Multi
 Multi.amxd
---
-..
-
-//FM
 Operator
 Operator
---
-..
-
-//PM
-Collision ( Solid: Beam | Marimba | String | Membrane | Plate | Pipe | Tube )
 Collision
-Electric ( Piano )
+Collision
 Electric
-Tension ( String: Bow | Hammer | Hammer Bouncing | Plectrum )
+Electric
 Tension
---
-..
-
-//Samplers
+Tension
 Sampler
 Sampler
 Simpler
 Simpler
 Impulse
 Impulse
---
-More Simpler
-More Simpler.amxd
---
-..
-
-//Wavetable
 Wavetable
 Wavetable Instrument
 --
-..
-
-//Granular
+More Simpler
+More Simpler.amxd
 Granulator II
 Granulator II
 Granulator II Follow
 GranulatorFollow II
 Vector Grain
 Vector Grain
---
-..

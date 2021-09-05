@@ -1,0 +1,36 @@
+Architect
+"Architect 1.0.1.amxd"
+--
+EXT3 (Envelopes)
+"EXT3.amxd"
+REF (Envelope Follower)
+"REF.amxd"
+TIP (Preset Selector & Randomizer)
+"TIP.amxd"
+TED FX (LFO)
+"TED FX.amxd"
+--
+//J74
+J74-EnvMorph
+"J74-EnvMorph.amxd"
+J74-JoyMorph
+"J74-JoyMorph.amxd"
+J74-LFOMorph
+"J74-LFOMorph.amxd"
+J74-LoopMorph
+"J74-LoopMorph.amxd"
+J74-MorphJ
+"J74-MorphJ.amxd"
+J74-ParamMorph
+"J74-ParamMorph.amxd"
+J74-ParamMorphRemote
+"J74-ParamMorphRemote.amxd"
+J74-PresetMorph
+"J74-PresetMorph.amxd"
+J74-SendMorph
+"J74-SendMorph.amxd"
+J74-SendMorphRemote
+"J74-SendMorphRemote.amxd"
+J74-TrackMorph
+"J74-TrackMorph.amxd"
+..

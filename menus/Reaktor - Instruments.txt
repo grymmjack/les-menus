@@ -1,0 +1,121 @@
+//Reaktor Instruments
+Monark
+REAKTOR - MONARK.adg
+Razor
+REAKTOR - RAZOR.adg
+Prism
+REAKTOR - PRISM.adg
+Rounds
+REAKTOR - ROUNDS.adg
+Kontour
+REAKTOR - KONTOUR.adg
+Skanner XT
+REAKTOR - SKANNER XT.adg
+Spark
+REAKTOR - SPARK.adg
+--
+TRK-01
+REAKTOR - TRK-01.adg
+TRK-01 Bass
+REAKTOR - TRK-01-BASS.adg
+TRK-01 Kick
+REAKTOR - TRK-01-KICK.adg
+Polyplex
+REAKTOR - POLYPLEX.adg
+--
+Bitrate II
+REAKTOR - BITRATE II.adg
+Calc-U-Synth
+REAKTOR - CALC-U-SYNTH.adg
+C-Tools Capsule
+REAKTOR - C-TOOLS-CAPSULE.adg
+C-Tools Clique
+REAKTOR - C-TOOLS-CLIQUE.adg
+C-Tools Coil
+REAKTOR - C-TOOLS-COIL.adg
+Grid II.adg
+REAKTOR - GRID II.adg
+Monoboy
+REAKTOR - MONOBOY.adg
+--
+2 OSC
+REAKTOR - 2-OSC.adg
+Aerobic
+REAKTOR - AEROBIC.adg
+Akkord
+REAKTOR - AKKORD.adg
+Beatslicer 2
+REAKTOR - BEATSLICER2.adg
+Bluematrix
+REAKTOR - BLUEMATRIX.adg
+Carbon
+REAKTOR - CARBON.adg
+Carbon 2
+REAKTOR - CARBON 2.adg
+Equinoxe Deluxe
+REAKTOR - EQUINOXE DELUXE.adg
+Fast FX
+REAKTOR - FASTFX.adg
+FM 4
+REAKTOR - FM4.adg
+Gaugear
+REAKTOR - GAUGEAR.adg
+Greenmatrix
+REAKTOR - GREENMATRIX.adg
+Grobian
+REAKTOR - GROBIAN.adg
+Junatik
+REAKTOR - JUNATIK.adg
+Kaleidon
+REAKTOR - KALEIDON.adg
+Krypt
+REAKTOR - KRYPT.adg
+L3
+REAKTOR - L3.adg
+Lazerbass
+REAKTOR - LAZERBASS.adg
+Limelite
+REAKTOR - LIMELITE.adg
+Massive
+REAKTOR - MASSIVE.adg
+Memory Drum 2
+REAKTOR - MEMORY DRUM 2.adg
+Metaphysical Function A
+REAKTOR - METAPHYSICAL FUNCTION A.adg
+Metaphysical Function B
+REAKTOR - METAPHYSICAL FUNCTION B.adg
+Nanowave
+REAKTOR - NANOWAVE.adg
+Newscool
+REAKTOR - NEWSCOOL.adg
+Oki-Computer 2
+REAKTOR - OKI-COMPUTER 2.adg
+Photone
+REAKTOR - PHOTONE.adg
+Rhythmaker
+REAKTOR - RHYTHMAKER.adg
+Sinebeats 2
+REAKTOR - SINEBEATS2.adg
+Skrewell
+REAKTOR - SKREWELL.adg
+Soundschool Analog
+REAKTOR - SOUNDSCHOOL ANALOG.adg
+Spacedrone
+REAKTOR - SPACEDRONE.adg
+Steam Pipe
+REAKTOR - STEAM PIPE.adg
+Steam Pipe 2
+REAKTOR - STEAM PIPE 2.adg
+Subharmonic
+REAKTOR - SUBHARMONIC.adg
+Sum Synth
+REAKTOR - SUM SYNTH.adg
+Titan
+REAKTOR - TITAN.adg
+Vectory
+REAKTOR - VECTORY.adg
+Vierring
+REAKTOR - VIERRING.adg
+Waveweaver
+REAKTOR - WAVEWEAVER.adg
+..

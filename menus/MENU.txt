@@ -1,8 +1,864 @@
+/Favorites
+NI Maschine
+"maschine 2 VST"
+NI Maschine FX
+"maschine 2 FX VST"
+NI Reaktor 6
+Reaktor 6 VST
+NI Kontakt
+"Kontakt VST"
+NI Battery 4
+"Battery 4 VST"
+NI Komplete Kontrol
+Komplete Kontrol VST
+NI Guitar Rig Pro
+Guitar Rig 5 VST
+--
+Glitch 2
+Glitch2 VST
+--
+Ohmicide
+Ohmicide_vstwin_x64 VST
+--
+Sylenth 1
+Sylenth1 VST
+--
+xfer Serum
+Serum_x64 VST
+xfer Serum FX
+SerumFX_x64 VST
+xfer OTT
+OTT_x64 VST
+Ableton OTT
+OTT.adv
+--
+The Drop
+The Drop 64 VST
+The Glue
+The Glue 64 VST
+--
+Voltage Modular
+Voltage Moduler VST
+Voltage Modular FX
+Voltage Modular FX VST
+..
+--
+/Reason
+Combinator
+Combinator
+--
+//Reason Instruments
+Algoritm
+ALGORITM - FM SYNTHESIZER.adg
+A-List Acoustic Guitarist
+A-LIST ACOUSTIC GUITARIST.adg
+A-List Acoustic Guitarist - Fingerpicking Nylon
+A-LIST ACOUSTIC GUITARIST - FINGERPICKING NYLON.adg
+A-List Electric Guitarist - Pop Chords
+A-LIST ELECTRIC GUITARIST - POP CHORDS.adg
+A-List Electric Guitarist - Power Chords
+A-LIST ELECTRIC GUITARIST - POWER CHORDS.adg
+Complex-1
+COMPLEX-1 - MODULAR SYNTHESIZER.adg
+Dr. Octorex - Loop Player
+DR. OCTOREX - LOOP PLAYER.adg
+Europa
+EUROPA - SHAPESHIFTING SYNTHESIZER.adg
+Friktion
+FRIKTION - MODELED STRINGS.adg
+Grain
+GRAIN - SAMPLE MANIPULATOR.adg
+Humana
+HUMANA - VOCAL ENSEMBLE.adg
+ID8
+ID8 - INSTRUMENT DEVICE.adg
+Klang
+KLANG - TUNED PERCUSSION.adg
+Kong
+KONG - DRUM DESIGNER.adg
+Layers
+LAYERS.adg
+Layers Wave Edition
+LAYERS WAVE EDITION.adg
+Malstrom
+MALSTROM - GRAINTABLE SYNTHESIZER.adg
+Mimic
+MIMIC - CREATIVE SAMPLER.adg
+Monotone
+MONOTONE - BASS SYNTH.adg
+NN-19
+NN-19 - DIGITAL SAMPLER.adg
+NN-XT
+NN-XT - ADVANCED SAMPLER.adg
+Pangea
+PANGEA - WORLD INSTRUMENTS.adg
+Parsec
+PARSEC - SPECTRAL SYNTHESIZER.adg
+Processed Pianos
+PROCESSED PIANOS.adg
+Radical Keys Electric Piano
+RADICAL KEYS ELECTRIC PIANO.adg
+Radical Piano
+RADICAL PIANO.adg
+Reason Drum Kits
+REASON DRUM KITS.adg
+Reason Electric Bass
+REASON ELECTRIC BASS.adg
+Redrum
+REDRUM - DRUM COMPUTER.adg
+Rytmik
+RYTMIK - DRUM MACHINE.adg
+Scenic
+SCENIC - HYBRID INSTRUMENT.adg
+Subtractor
+SUBTRACTOR - ANALOG SYNTHESIZER.adg
+Thor
+THOR - POLYSONIC SYNTHESIZER.adg
+Umpf - Club Drums
+UMPF - CLUB DRUMS.adg
+Umpf - Retro Beats
+UMPF - RETRO BEATS.adg
+..
+//Reason Effects
+Alligator
+ALLIGATOR.adg
+BV512 Vocoder
+BV512 VOCODER.adg
+Cf-101 Chorus Flanger
+CF-101 CHORUS FLANGER.adg
+Channel Dynamics - Comp
+CHANNEL DYNAMICS - COMP.adg
+Channel Dynamics - Expander
+CHANNEL DYNAMICS - EXPANDER.adg
+Channel Dynamics - Gate
+CHANNEL DYNAMICS - GATE.adg
+Channel EQ
+CHANNEL EQ.adg
+COMP-01 Make-Up Compressor
+COMP-01 MAKE-UP COMPRESSOR.adg
+D-11 Foldback Distortion
+D-11 FOLDBACK DISTORTION.adg
+DDL-1 Digital Delay Line
+DDL-1 DIGITAL DELAY LINE.adg
+ECF-42 Envelope Filter
+ECF-42 ENVELOPE FILTER.adg
+Master Bus Compressor
+MASTER BUS COMPRESSOR.adg
+Mclass Compressor
+MCLASS COMPRESSOR.adg
+Mclass Eq
+MCLASS EQ.adg
+Mclass Maximizer
+MCLASS MAXIMIZER.adg
+Mclass Stereo Imager
+MCLASS STEREO IMAGER.adg
+Neptune Pitch Adjuster
+NEPTUNE PITCH ADJUSTER.adg
+PEQ-2 Band Parametric Eq
+PEQ-2 BAND PARAMETRIC EQ.adg
+PH-90 Phaser
+PH-90 PHASER.adg
+Polar Dual Pitch Shifter
+POLAR DUAL PITCH SHIFTER.adg
+Rotor Rotary Speaker
+ROTOR ROTARY SPEAKER.adg
+Rv-7 Digital Reverb
+RV-7 DIGITAL REVERB.adg
+Softube Amp
+SOFTUBE AMP.adg
+Softube Bass Amp
+SOFTUBE BASS AMP.adg
+The Echo
+THE ECHO.adg
+UN-16 Unison
+UN-16 UNISON.adg
+--
+///Audiomatic
+Bottom
+AUDIOMATIC - BOTTOM.adg
+Bright
+AUDIOMATIC - BRIGHT.adg
+Circuit
+AUDIOMATIC - CIRCUIT.adg
+Cracked
+AUDIOMATIC - CRACKED.adg
+Eerie
+AUDIOMATIC - EERIE.adg
+Gadget
+AUDIOMATIC - GADGET.adg
+Hi-Fi
+AUDIOMATIC - HI-FI.adg
+MP3
+AUDIOMATIC - MP3.adg
+Psyche
+AUDIOMATIC - PSYCHE.adg
+PVC
+AUDIOMATIC - PVC.adg
+Radio
+AUDIOMATIC - RADIO.adg
+Spread
+AUDIOMATIC - SPREAD.adg
+Tape
+AUDIOMATIC - TAPE.adg
+VHS
+AUDIOMATIC - VHS.adg
+Vinyl
+AUDIOMATIC - VINYL.adg
+Wash
+AUDIOMATIC - WASH.adg
+..
+..
+///Complex-1
+Comb Delay
+COMPLEX-1 - COMB DELAY.adg
+Filter - HP
+COMPLEX-1 - FILTER - HP.adg
+Filter - LP
+COMPLEX-1 - FILTER - LP.adg
+Shaper
+COMPLEX-1 - SHAPER.adg
+..
+..
+///Kong
+Compressor
+KONG - COMPRESSOR.adg
+Filter - BP
+KONG - FILTER - BP.adg
+Filter - HP
+KONG - FILTER - HP.adg
+Filter - LP
+KONG - FILTER - LP.adg
+Parametric EQ
+KONG - PARAMETRIC EQ.adg
+Rattler
+KONG - RATTLER.adg
+Resonator - A
+KONG - RESONATOR - A.adg
+Resonator - B
+KONG - RESONATOR - B.adg
+Resonator - C
+KONG - RESONATOR - C.adg
+Resonator - D
+KONG - RESONATOR - D.adg
+Resonator - E
+KONG - RESONATOR - E.adg
+Ring Modulator
+KONG - RING MODULATOR.adg
+Room Reverb
+KONG - ROOM REVERB.adg
+Tape Echo
+KONG - TAPE ECHO.adg
+Transient Shaper
+KONG - TRANSIENT SHAPER.adg
+..
+..
+///Malstrom
+Filter - AM
+MALSTROM - FILTER - AM.adg
+Filter - BP12
+MALSTROM - FILTER - BP12.adg
+Filter - COMB-
+MALSTROM - FILTER - COMB-.adg
+Filter - COMB+
+MALSTROM - FILTER - COMB+.adg
+Filter - LP12
+MALSTROM - FILTER - LP12.adg
+Shaper - Clip
+MALSTROM - SHAPER - CLIP.adg
+Shaper - Noise
+MALSTROM - SHAPER - NOISE.adg
+Shaper - Quant
+MALSTROM - SHAPER - QUANT.adg
+Shaper - Saturate
+MALSTROM - SHAPER - SATURATE.adg
+Shaper - Sine
+MALSTROM - SHAPER - SINE.adg
+..
+..
+///Parsec
+Body Narrow
+PARSEC - BODY NARROW.adg
+Body Sweep Narrow
+PARSEC - BODY SWEEP NARROW.adg
+Body Sweep Wide
+PARSEC - BODY SWEEP WIDE.adg
+Body Wide
+PARSEC - BODY WIDE.adg
+Center Freq
+PARSEC - CENTER FREQ.adg
+Ensemble 1
+PARSEC - ENSEMBLE 1.adg
+Ensemble 2
+PARSEC - ENSEMBLE 2.adg
+Filter - Bandpass
+PARSEC - FILTER - BANDPASS.adg
+Filter - Brickwall BP
+PARSEC - FILTER - BRICKWALL BP.adg
+Filter - Brickwall Notch
+PARSEC - FILTER - BRICKWALL NOTCH.adg
+Filter - Comb Notch
+PARSEC - FILTER - COMB NOTCH.adg
+Filter - Comb Peak
+PARSEC - FILTER - COMB PEAK.adg
+Filter - Dual Band
+PARSEC - FILTER - DUAL BAND.adg
+Filter - FM
+PARSEC - FILTER - FM.adg
+Filter - HPF 24
+PARSEC - FILTER - HPF 24.adg
+Filter - LPF 12
+PARSEC - FILTER - LPF 12.adg
+Filter - LPF 24
+PARSEC - FILTER - LPF 24.adg
+Filter - Param EQ
+PARSEC - FILTER - PARAM EQ.adg
+Filter Curve
+PARSEC - FILTER CURVE.adg
+Harmonic Stretch
+PARSEC - HARMONIC STRETCH.adg
+Harmonics
+PARSEC - HARMONICS.adg
+Partial Filter
+PARSEC - PARTIAL FILTER.adg
+Pitch Curve
+PARSEC - PITCH CURVE.adg
+Pitch Warp
+PARSEC - PITCH WARP.adg
+PWM
+PARSEC - PWM.adg
+Raw
+PARSEC - RAW.adg
+Sync
+PARSEC - SYNC.adg
+Unison
+PARSEC - UNISON.adg
+Voice
+PARSEC - VOICE.adg
+..
+..
+///Processed Pianos
+Chorus
+PROCESSED PIANOS - CHORUS.adg
+Compressor
+PROCESSED PIANOS - COMPRESSOR.adg
+Filter - BP
+PROCESSED PIANOS - FILTER - BP.adg
+Filter - Comb-
+PROCESSED PIANOS - FILTER - COMB-.adg
+Filter - Comb+
+PROCESSED PIANOS - FILTER - COMB+.adg
+Filter - HP
+PROCESSED PIANOS - FILTER - HP.adg
+Filter - LP12
+PROCESSED PIANOS - FILTER - LP12.adg
+Filter - LP24
+PROCESSED PIANOS - FILTER - LP24.adg
+Freq-Shifter
+PROCESSED PIANOS - FREQ-SHIFTER.adg
+Lo-Fi
+PROCESSED PIANOS - LO-FI.adg
+Multi-Tap Echo
+PROCESSED PIANOS - MULTI-TAP ECHO.adg
+Reverb
+PROCESSED PIANOS - REVERB.adg
+..
+..
+///Pulveriser
+Band Pass
+PULVERISER - BAND PASS.adg
+Bypass
+PULVERISER - BYPASS.adg
+Comb
+PULVERISER - COMB.adg
+High Pass
+PULVERISER - HIGH PASS.adg
+Low Pass 12 + Notch
+PULVERISER - LOW PASS 12 + NOTCH.adg
+Low Pass 24
+PULVERISER - LOW PASS 24.adg
+..
+..
+///Quartet Chorus
+BBD Ensemble
+QUARTET - BBD ENSEMBLE.adg
+Chorus
+QUARTET - CHORUS.adg
+FFT Ensemble
+QUARTET - FFT ENSEMBLE.adg
+Grain Ensemble
+QUARTET - GRAIN ENSEMBLE.adg
+..
+..
+///Radical Piano
+Key Processor FX
+RADICAL PIANO - KEY PROCESSOR FX.adg
+..
+..
+///Rv7000 MKII Reverb
+Delay - Echo
+RV7000 - DELAY - ECHO.adg
+Delay - Multi-Tap
+RV7000 - DELAY - MULTI-TAP.adg
+Reverb - Arena
+RV7000 - REVERB - ARENA.adg
+Reverb - Convolution
+RV7000 - REVERB - CONVOLUTION.adg
+Reverb - Hall
+RV7000 - REVERB - HALL.adg
+Reverb - Plate
+RV7000 - REVERB - PLATE.adg
+Reverb - Reverse
+RV7000 - REVERB - REVERSE.adg
+Reverb - Room
+RV7000 - REVERB - ROOM.adg
+Reverb - Small Space
+RV7000 - REVERB - SMALL SPACE.adg
+Reverb - Spring
+RV7000 - REVERB - SPRING.adg
+..
+..
+///Scenic
+Chorus
+SCENIC - CHORUS.adg
+Echo
+SCENIC - ECHO.adg
+Master Compressor
+SCENIC - MASTER COMPRESSOR.adg
+Master Reverb - Concrete
+SCENIC - MASTER REVERB - CONCRETE.adg
+Master Reverb - Dark Chamber
+SCENIC - MASTER REVERB - DARK CHAMBER.adg
+Master Reverb - Dense
+SCENIC - MASTER REVERB - DENSE.adg
+Master Reverb - Haze
+SCENIC - MASTER REVERB - HAZE.adg
+Master Reverb - Mid Room
+SCENIC - MASTER REVERB - MID ROOM.adg
+Master Reverb - Offworld
+SCENIC - MASTER REVERB - OFFWORLD.adg
+Master Reverb - Plate
+SCENIC - MASTER REVERB - PLATE.adg
+Master Reverb - Reflector
+SCENIC - MASTER REVERB - REFLECTOR.adg
+Master Reverb - Small Room
+SCENIC - MASTER REVERB - SMALL ROOM.adg
+Master Reverb - Stage
+SCENIC - MASTER REVERB - STAGE.adg
+Master Reverb - Traveler
+SCENIC - MASTER REVERB - TRAVELER.adg
+Phaser
+SCENIC - PHASER.adg
+Reverb
+SCENIC - REVERB.adg
+Saturation
+SCENIC - SATURATION.adg
+Tone Shaper
+SCENIC - TONE SHAPER.adg
+..
+..
+///Scream 4
+Digital
+SCREAM - DIGITAL.adg
+Distortion
+SCREAM - DISTORTION.adg
+Feedback
+SCREAM - FEEDBACK.adg
+Fuzz
+SCREAM - FUZZ.adg
+Modulate
+SCREAM - MODULATE.adg
+Overdrive
+SCREAM - OVERDRIVE.adg
+Scream
+SCREAM - SCREAM.adg
+Tape
+SCREAM - TAPE.adg
+Tube
+SCREAM - TUBE.adg
+Warp
+SCREAM - WARP.adg
+..
+..
+///Sweeper
+Filter - K35 LP 12 DB
+SWEEPER - FILTER - K35 LP 12 DB.adg
+Filter - Ladder LP 24 DB
+SWEEPER - FILTER - LADDER LP 24 DB.adg
+Filter - M Feedback HP 24 DB
+SWEEPER - FILTER - M FEEDBACK HP 24 DB.adg
+Filter - M Feedback LP 12 DB
+SWEEPER - FILTER - M FEEDBACK LP 12 DB.adg
+Filter - M Feedback LP 24 DB
+SWEEPER - FILTER - M FEEDBACK LP 24 DB.adg
+Filter - Notch 12 DB
+SWEEPER - FILTER - NOTCH 12 DB.adg
+Filter - SVF BP 12 DB
+SWEEPER - FILTER - SVF BP 12 DB.adg
+Filter - SVF HP 12 DB
+SWEEPER - FILTER - SVF HP 12 DB.adg
+Filter - SVF LP 12 DB
+SWEEPER - FILTER - SVF LP 12 DB.adg
+Flanger
+SWEEPER - FLANGER.adg
+Phaser
+SWEEPER - PHASER.adg
+..
+..
+///Synchronous
+Delay
+SYNCHRONOUS - DELAY.adg
+Distortion
+SYNCHRONOUS - DISTORTION.adg
+Filter
+SYNCHRONOUS - FILTER.adg
+Reverb
+SYNCHRONOUS - REVERB.adg
+..
+..
+///Thor
+Chorus
+THOR - CHORUS.adg
+Delay
+THOR - DELAY.adg
+Filter - Comb
+THOR - FILTER - COMB.adg
+Filter - Formant
+THOR - FILTER - FORMANT.adg
+Filter - LPF 12
+THOR - FILTER - LPF 12.adg
+Filter - LPF 18
+THOR - FILTER - LPF 18.adg
+Filter - LPF 24 Type I
+THOR - FILTER - LPF 24 TYPE I.adg
+Filter - LPF 24 Type II
+THOR - FILTER - LPF 24 TYPE II.adg
+Filter - LPF 6
+THOR - FILTER - LPF 6.adg
+Filter - SPF BP 12
+THOR - FILTER - SPF BP 12.adg
+Filter - SPF HP 12
+THOR - FILTER - SPF HP 12.adg
+Filter - SPF LP 12
+THOR - FILTER - SPF LP 12.adg
+Filter - SPF NOTCH
+THOR - FILTER - SPF NOTCH.adg
+Filter - SPF PEAK
+THOR - FILTER - SPF PEAK.adg
+..
+..
+///Umpf
+Gated Reverb
+UMPF - GATED REVERB.adg
+Reverb - Creative Reverse
+UMPF - REVERB - CREATIVE REVERSE.adg
+Reverb - Disperssive
+UMPF - REVERB - DISPERSSIVE.adg
+Reverb - Impact Room
+UMPF - REVERB - IMPACT ROOM.adg
+Reverb - Long
+UMPF - REVERB - LONG.adg
+Reverb - Medium Long
+UMPF - REVERB - MEDIUM LONG.adg
+Reverb - Metalic
+UMPF - REVERB - METALIC.adg
+Reverb - Short
+UMPF - REVERB - SHORT.adg
+Reverb - Snare Plate
+UMPF - REVERB - SNARE PLATE.adg
+Reverb - Very Long
+UMPF - REVERB - VERY LONG.adg
+Reverb - Washy
+UMPF - REVERB - WASHY.adg
+Tape
+UMPF - TAPE.adg
+Tape Echo
+UMPF - TAPE ECHO.adg
+..
+..
+//Reason Players
+Beat Map
+BEAT MAP.adg
+Drum Sequencer
+DRUM SEQUENCER.adg
+Dual Arpeggio
+DUAL ARPEGGIO.adg
+Note Echo
+NOTE ECHO.adg
+Pattern Mutator
+PATTERN MUTATOR.adg
+Polystep Sequencer
+POLYSTEP SEQUENCER.adg
+Quad Note Generator
+QUAD NOTE GENERATOR.adg
+Scales And Chords
+SCALES AND CHORDS.adg
+--
+Robotic Bean - Sequences
+ROBOTIC BEAN - SEQUENCES.adg
+..
+..
+--
+/Reaktor
+Reaktor
+Reaktor
+Reaktor FX
+Reaktor FX
+--
+//Reaktor Instruments
+Monark
+REAKTOR - MONARK.adg
+Razor
+REAKTOR - RAZOR.adg
+Prism
+REAKTOR - PRISM.adg
+Rounds
+REAKTOR - ROUNDS.adg
+Kontour
+REAKTOR - KONTOUR.adg
+Skanner XT
+REAKTOR - SKANNER XT.adg
+Spark
+REAKTOR - SPARK.adg
+--
+TRK-01
+REAKTOR - TRK-01.adg
+TRK-01 Bass
+REAKTOR - TRK-01-BASS.adg
+TRK-01 Kick
+REAKTOR - TRK-01-KICK.adg
+Polyplex
+REAKTOR - POLYPLEX.adg
+--
+Bitrate II
+REAKTOR - BITRATE II.adg
+Calc-U-Synth
+REAKTOR - CALC-U-SYNTH.adg
+C-Tools Capsule
+REAKTOR - C-TOOLS-CAPSULE.adg
+C-Tools Clique
+REAKTOR - C-TOOLS-CLIQUE.adg
+C-Tools Coil
+REAKTOR - C-TOOLS-COIL.adg
+Grid II.adg
+REAKTOR - GRID II.adg
+Monoboy
+REAKTOR - MONOBOY.adg
+--
+2 OSC
+REAKTOR - 2-OSC.adg
+Aerobic
+REAKTOR - AEROBIC.adg
+Akkord
+REAKTOR - AKKORD.adg
+Beatslicer 2
+REAKTOR - BEATSLICER2.adg
+Bluematrix
+REAKTOR - BLUEMATRIX.adg
+Carbon
+REAKTOR - CARBON.adg
+Carbon 2
+REAKTOR - CARBON 2.adg
+Equinoxe Deluxe
+REAKTOR - EQUINOXE DELUXE.adg
+Fast FX
+REAKTOR - FASTFX.adg
+FM 4
+REAKTOR - FM4.adg
+Gaugear
+REAKTOR - GAUGEAR.adg
+Greenmatrix
+REAKTOR - GREENMATRIX.adg
+Grobian
+REAKTOR - GROBIAN.adg
+Junatik
+REAKTOR - JUNATIK.adg
+Kaleidon
+REAKTOR - KALEIDON.adg
+Krypt
+REAKTOR - KRYPT.adg
+L3
+REAKTOR - L3.adg
+Lazerbass
+REAKTOR - LAZERBASS.adg
+Limelite
+REAKTOR - LIMELITE.adg
+Massive
+REAKTOR - MASSIVE.adg
+Memory Drum 2
+REAKTOR - MEMORY DRUM 2.adg
+Metaphysical Function A
+REAKTOR - METAPHYSICAL FUNCTION A.adg
+Metaphysical Function B
+REAKTOR - METAPHYSICAL FUNCTION B.adg
+Nanowave
+REAKTOR - NANOWAVE.adg
+Newscool
+REAKTOR - NEWSCOOL.adg
+Oki-Computer 2
+REAKTOR - OKI-COMPUTER 2.adg
+Photone
+REAKTOR - PHOTONE.adg
+Rhythmaker
+REAKTOR - RHYTHMAKER.adg
+Sinebeats 2
+REAKTOR - SINEBEATS2.adg
+Skrewell
+REAKTOR - SKREWELL.adg
+Soundschool Analog
+REAKTOR - SOUNDSCHOOL ANALOG.adg
+Spacedrone
+REAKTOR - SPACEDRONE.adg
+Steam Pipe
+REAKTOR - STEAM PIPE.adg
+Steam Pipe 2
+REAKTOR - STEAM PIPE 2.adg
+Subharmonic
+REAKTOR - SUBHARMONIC.adg
+Sum Synth
+REAKTOR - SUM SYNTH.adg
+Titan
+REAKTOR - TITAN.adg
+Vectory
+REAKTOR - VECTORY.adg
+Vierring
+REAKTOR - VIERRING.adg
+Waveweaver
+REAKTOR - WAVEWEAVER.adg
+..
+//Reaktor Audio Effects
+///Molekular
+Molekular
+!MOLEKULAR.adg
+--
+Angel Delay
+MOLEKULAR - Angel Delay.adg
+Band Delays
+MOLEKULAR - Band Delays.adg
+Chorus
+MOLEKULAR - Chorus.adg
+Cloud Delay
+MOLEKULAR - Cloud Delay.adg
+Dark Forces
+MOLEKULAR - Dark Forces.adg
+Dual Comb
+MOLEKULAR - Dual Comb.adg
+Dual Delay
+MOLEKULAR - Dual Delay.adg
+Dual Filter
+MOLEKULAR - Dual Filter.adg
+Dub Delay
+MOLEKULAR - Dub Delay.adg
+Equalizer
+MOLEKULAR - Equalizer.adg
+Filter
+MOLEKULAR - Filter.adg
+Filterbank
+MOLEKULAR - Filterbank.adg
+Freezer
+MOLEKULAR - Freezer.adg
+Frequency Shift
+MOLEKULAR - Frequency Shift.adg
+Half Wave
+MOLEKULAR - Half Wave.adg
+Iteratron
+MOLEKULAR - Iteratron.adg
+Level
+MOLEKULAR - Level.adg
+Lo Fi
+MOLEKULAR - Lo Fi.adg
+Metaverb
+MOLEKULAR - Metaverb.adg
+Modulo Fry
+MOLEKULAR - Modulo Fry.adg
+Phlanger
+MOLEKULAR - Phlanger.adg
+Pitch Shift
+MOLEKULAR - Pitch Shift.adg
+Plagiarism
+MOLEKULAR - Plagiarism.adg
+reSonitarium
+MOLEKULAR - reSonitarium.adg
+Reversoid
+MOLEKULAR - Reversoid.adg
+Ryuchi
+MOLEKULAR - Ryuchi.adg
+Slam Dunk
+MOLEKULAR - Slam Dunk.adg
+Spektral Hold
+MOLEKULAR - Spektral Hold.adg
+Spektral Shift
+MOLEKULAR - Spektral Shift.adg
+Spektral Smear
+MOLEKULAR - Spektral Smear.adg
+Track OSC
+MOLEKULAR - Track OSC.adg
+Track Pulses
+MOLEKULAR - Track Pulses.adg
+Trails
+MOLEKULAR - Trails.adg
+Vokoder
+MOLEKULAR - Vokoder.adg
+Wave Fold
+MOLEKULAR - Wave Fold.adg
+..
+The Mouth
+!THE MOUTH.adg
+The Finger
+!THE FINGER.adg
+Prism FX
+!PRISM-FX.adg
+--
+///EnFX
+EnFX
+_ENFX.adg
+--
+EnFX Delay
+_ENFX-DELAY.adg
+EnFX Filter
+_ENFX-FILTER.adg
+EnFX Distortion
+_ENFX-DISTORTION.adg
+..
+Analogic Filter Box
+_ANALOGIC FILTER BOX.adg
+Anima
+_ANIMA.adg
+Banane Electrique
+_BANANE ELECTRQUE.adg
+Classic Vocoder
+_CLASSIC VOCODER.adg
+Cyan
+_CYAN.adg
+Echomania
+_ECHOMANIA.adg
+Flat Blaster
+_FLAT BLASTER.adg
+Flat Blaster 2
+_FLAT BLASTER 2.adg
+Fusion Reflections
+_FUSION REFLECTIONS.adg
+Grainstates FX
+_GRAINSTATES FX.adg
+Longflow
+_LONGFLOW.adg
+Resochord
+_RESOCHORD.adg
+Space Master
+_SPACE MASTER.adg
+Space Master 2
+_SPACE MASTER 2.adg
+Spring Tank
+_SPRING TANK.adg
+Two Knees Compressor
+_TWO KNEES COMPRESSOR.adg
+..
+
+..
+--
 /Instruments
 Instrument Rack
 Instrument Rack
 --
-//Subtractive
 Analog
 Analog
 Bass
@@ -11,53 +867,31 @@ Poli
 Poli
 Multi
 Multi.amxd
---
-..
-
-//FM
 Operator
 Operator
---
-..
-
-//PM
-Collision ( Solid: Beam | Marimba | String | Membrane | Plate | Pipe | Tube )
 Collision
-Electric ( Piano )
+Collision
 Electric
-Tension ( String: Bow | Hammer | Hammer Bouncing | Plectrum )
+Electric
 Tension
---
-..
-
-//Samplers
+Tension
 Sampler
 Sampler
 Simpler
 Simpler
 Impulse
 Impulse
---
-More Simpler
-More Simpler.amxd
---
-..
-
-//Wavetable
 Wavetable
 Wavetable Instrument
 --
-..
-
-//Granular
+More Simpler
+More Simpler.amxd
 Granulator II
 Granulator II
 Granulator II Follow
 GranulatorFollow II
 Vector Grain
 Vector Grain
---
-..
 --
 //Subtractive
 REASON Subtractor
@@ -85,12 +919,6 @@ ReDominator
 ReDominator1x VST
 Carbon Electra
 Carbon Electra VST
-; Novation Bass Station
-; Bass-Station-Stereo 64 VST
-; Superwave Tarkus (KORG MS-2000)
-; Tarkus VST
-; Knifonium
-; Knif Audio Knifonium VST
 Brainworx Oberhausen
 bx_oberhausen VST
 Largo
@@ -156,7 +984,14 @@ SEM V2 VST
 Arturia Synthi V
 Synthi V VST
 ..
-
+//Hybrid
+Absynth 5
+Absynth 5 VST
+..
+//Additive
+AIR Loom
+Loom_x64 VST
+..
 //Granular
 Steinberg PadShop Pro 2
 Padshop
@@ -169,8 +1004,7 @@ NI Skanner XT
 iZotope Iris 2
 Izotope Iris 2 VST
 ..
-
-//Wavetable
+//Wave Table
 Serum
 Serum_x64 VST
 Waldorf PPG Wave 2
@@ -182,13 +1016,11 @@ Warszawa VST
 Waves CODEX
 CODEX Stereo VST
 ..
-
 //Samplers
 TAL Sampler
 TAL-Sampler-64 VST
 ..
-
-//Modulars
+//Modular
 KarmaFX Synth
 KarmaFX Synth VST
 Voltage Modular
@@ -201,13 +1033,13 @@ Arturia Buchla Easel V
 Buchla Easel V VST
 ..
 ..
-
-
 /Drums
 Drum Rack
 Drum Rack
---
 //Drum Synths
+Analogue Drums
+"analogue drums.amxd"
+--
 DS Kick
 DS Kick
 DS Snare
@@ -254,152 +1086,19 @@ DrumSynth Cymbal.amxd
 DrumSynth Karplus Strong
 DrumSynth Kplus.amxd
 ..
-
 --
-//Maschine MK3
-Maschine
-"Maschine 2 VST"
-Maschine FX
-"Maschine 2 FX VST"
---
-
-///Kick
-Bold
-Kick - Bold.adg
-Dusty
-Kick - Dusty.adg
-Grit
-Kick - Grit.adg
-Maple
-Kick - Maple.adg
-Push
-Kick - Push.adg
-Rasper
-Kick - Rasper.adg
-Snappy
-Kick - Snappy.adg
-Sub Noise
-Kick - Sub - Noise.adg
-Sub Thick
-Kick - Sub - Thick.adg
-Sub Thin
-Kick - Sub - Thin.adg
-Tronic
-Kick - Tronic.adg
-..
-..
-
-///Snare
-Airy
-Snare - Airy.adg
-Bit
-Snare - Bit.adg
-Breaker
-Snare - Breaker.adg
-Chrome
-Snare - Chrome.adg
-Iron
-Snare - Iron.adg
-Pow
-Snare - Pow.adg
-Sharp
-Snare - Sharp.adg
-Vintage
-Snare - Vintage.adg
-Volt
-Snare - Volt.adg
-..
-..
-
-///Clap
-Clap
-Maschine - CLAP.adg
-..
-..
-
-///Hihat
-Circuit
-Hi-hat - Circuit.adg
-Hybrid
-Hi-hat - Hybrid.adg
-Memory
-Hi-hat - Memory.adg
-Silver
-Hi-hat - Silver.adg
-..
-..
-
-///Shaker
-Shaker
-"Maschine - Shaker.adg"
-..
-..
-
-///Tom
-Floor
-"Tom - Floor.adg"
-Fractal
-"Tom - Fractal.adg"
-High
-"Tom - High.adg"
-Tronic
-"Tom - Tronic.adg"
-..
-..
-
-///Percussion
-Fractal
-Percussion - Fractal.adg
-Kettle
-Percussion - Kettle.adg
-..
-..
-
-///Cymbal
-Crash
-"Cymbal - Crash.adg"
-Ride
-"Cymbal - Ride.adg"
-..
-..
-
-//Polyplex
-Polyplex Kick
-!POLYPLEX-KICK
-Polyplex Snare
-!POLYPLEX-SNARE
-Polyplex Percussion
-!POLYPLEX-PERCUSSION
-Polyplex One Shot
-!POLYPLEX-ONESHOT
-Polyplex User
-!POLYPLEX-USER
-..
-
-//TRK-01
-TRK-01 Kick
-"!TRK-01-KICK.adg"
-..
-
---
-NI Maschine 2
-"maschine 2 VST"
-NI Battery 4
-Battery 4 VST
---
-
 //NI Kontakt
-DRUMLAB
-DRUMLAB.adg
-WA Evolution
-EVOLUTION.adg
 WA Drumvolution
 DRUMVOLUTION.adg
+WA Evolution
+EVOLUTION.adg
 WA Revolution
 REVOLUTION.adg
 WA Revolution Percussion
 REVOLUTION PERCUSSION.adg
 --
+DRUMLAB
+DRUMLAB.adg
 ABBEY ROAD 50s Drummer - Autumn Kit
 ABBEY ROAD 50s DRUMMER - AUTUMN KIT.adg
 ABBEY ROAD 50s Drummer - Spring Kit
@@ -431,7 +1130,6 @@ STUDIO DRUMMER - SESSION KIT.adg
 STUDIO DRUMMER - Stadium Kit
 STUDIO DRUMMER - STADIUM KIT.adg
 ..
-
 //NI Reaktor
 Polyplex Kick
 !POLYPLEX-KICK
@@ -443,13 +1141,8 @@ Polyplex One Shot
 !POLYPLEX-ONESHOT
 Polyplex User
 !POLYPLEX-USER
---
 TRK-01 Kick
 !TRK-01-KICK.adg
-Heavyocity $C-TOOLS Capsule
-$C-TOOLS-CAPSULE.adg
-Heavyocity GRID II
-$GRID II.adg
 --
 Aerobic
 "_AEROBIC.adg"
@@ -465,44 +1158,150 @@ Rhythmaker
 "_RHYTHMAKER.adg"
 Sine Beats 2
 "_SINEBEATS2.adg"
+--
+Heavyocity $C-TOOLS Capsule
+$C-TOOLS-CAPSULE.adg
+Heavyocity GRID II
+$GRID II.adg
 ..
-
+//NI Maschine
+NI Maschine
+"maschine 2 VST"
+NI Maschine FX
+"maschine 2 FX VST"
+--
+///Kick
+Bold
+Kick - Bold.adg
+Dusty
+Kick - Dusty.adg
+Grit
+Kick - Grit.adg
+Maple
+Kick - Maple.adg
+Push
+Kick - Push.adg
+Rasper
+Kick - Rasper.adg
+Snappy
+Kick - Snappy.adg
+Sub Noise
+Kick - Sub - Noise.adg
+Sub Thick
+Kick - Sub - Thick.adg
+Sub Thin
+Kick - Sub - Thin.adg
+Tronic
+Kick - Tronic.adg
+..
+..
+///Snare
+Airy
+Snare - Airy.adg
+Bit
+Snare - Bit.adg
+Breaker
+Snare - Breaker.adg
+Chrome
+Snare - Chrome.adg
+Iron
+Snare - Iron.adg
+Pow
+Snare - Pow.adg
+Sharp
+Snare - Sharp.adg
+Vintage
+Snare - Vintage.adg
+Volt
+Snare - Volt.adg
+..
+..
+///Clap
+Clap
+Maschine - CLAP.adg
+..
+..
+///Hihat
+Circuit
+Hi-hat - Circuit.adg
+Hybrid
+Hi-hat - Hybrid.adg
+Memory
+Hi-hat - Memory.adg
+Silver
+Hi-hat - Silver.adg
+..
+..
+///Shaker
+Shaker
+"Maschine - Shaker.adg"
+..
+..
+///Tom
+Floor
+"Tom - Floor.adg"
+Fractal
+"Tom - Fractal.adg"
+High
+"Tom - High.adg"
+Tronic
+"Tom - Tronic.adg"
+..
+..
+///Percussion
+Fractal
+Percussion - Fractal.adg
+Kettle
+Percussion - Kettle.adg
+..
+..
+///Cymbal
+Crash
+"Cymbal - Crash.adg"
+Ride
+"Cymbal - Ride.adg"
+..
+..
+NI Battery 4
+Battery 4 VST
+--
 //REASON Devices
-Dr. OctoRex
-DR. OCTOREX.adg
-Klang Tuned Percussion
-KLANG TUNED PERCUSSION.adg
-Kong
-KONG.adg
-REASON Drum Kits
-REASON DRUM KITS.adg
 Redrum
 REDRUM.adg
+Kong
+KONG.adg
+Dr. OctoRex
+DR. OCTOREX.adg
 Rytmik Drum machine
 RYTMIK DRUM MACHINE.adg
+--
 Umpf Club Drums
 UMPF CLUB DRUMS.adg
 Umpf Retro Beats
 UMPF RETRO BEATS.adg
+--
+Klang Tuned Percussion
+KLANG TUNED PERCUSSION.adg
+--
+REASON Drum Kits
+REASON DRUM KITS.adg
 ..
-
 //KORG Gadget
 AbuDhabi - Dynamic Loop Slicer
 AbuDhabi
-Bilbao - Lightning Sampler Player (Drums)
+Bilbao - Lightning Sampler Player
 Bilbao VST
 Gladstone - Acoustic Drum Module
 Gladstone VST
-London - Hypersonic PCM Drum Module (Modern Drum Styles)
+London - Hypersonic PCM Drum Modul
 London VST
-Otorii - SEGA 16-bit DRUM MACHINE (Arcade Drums and SFX)
+Otorii - Arcade Drum Machine
 Otorii VST
-Recife - Futuristic Drum Module (16 Pad Drum Machine)
+Recife - Futuristic Drum Module
 Recife VST
-Stockholm - Octo-Sample Loop Player (Propellerhead Dr. Octo Rex Clone)
+Stockholm - Octo-Sample Loop Player
 Stockholm VST
 ..
-
 //Beatskillz
 Bolly Maharaja
 BollyMaharaja VST
@@ -517,7 +1316,6 @@ SLTASTIk VST
 Synthwave Drums
 SYDRUMS64_WIN VST
 ..
-
 //Superwave
 D-707
 D-707 VST
@@ -530,9 +1328,7 @@ D-909 VST
 Tinypops (KORG Minipops Clone)
 Tinypops VST 
 ..
-
 --
-
 Sonic Charge Microtonic
 "Microtonic VST"
 Sonic Charge Microtonic Multi
@@ -546,20 +1342,6 @@ Egoist VST
 Steinberg Backbone
 Backbone VST
 --
-AudioRealism ADM
-ADM_x64 VST
-Waldorf Attack
-Attack VST
-Plugin Boutique BigKick
-BigKick VST
-UJam Beatmaker DOPE
-BM-DOPE VST
-e-phonic Drumatic 4
-drumatic 4 (x64)
-d16 Drumazon (TR-909 Clone)
-Drumazon VST
-d16 Nepheton (TR-808 Clone)
-Nepheton VST
 AIR Boom
 Boom_x64 VST
 AIR Drumsynth 500
@@ -568,47 +1350,42 @@ AIR Strike
 Strike_x64 VST
 AIR Transfuser
 Transfuser_x64 VST
-Inear Display Ephemere (FM)
-Ephemere VST
+--
+d16 Drumazon (TR-909 Clone)
+Drumazon VST
+d16 Nepheton (TR-808 Clone)
+Nepheton VST
+--
 IL Drumaxx
 IL Drumaxx VST
 IL Slicex
 IL Slicex VST
+--
 iZotope BreakTweaker
 iZotope BreakTweaker VST
 iZotope iDrum
 iZotope iDrum VST
+--
 Audiothing Latin Percussion
 LatinPercussion_x64 VST
 Audiothing SR-88
 SR88_x64 VST
+--
+AudioRealism ADM
+ADM_x64 VST
+Waldorf Attack
+Attack VST
+e-phonic Drumatic 4
+drumatic 4 (x64)
+Inear Display Ephemere (FM)
+Ephemere VST
+UJam Beatmaker DOPE
+BM-DOPE VST
 Arturia Spark
 "Spark VST"
 HY Slicer
 HY-Slicer(x64) VST
-
---
-
-Analogue Drums
-"analogue drums.amxd"
-
 ..
-
-
-/MIDI Effects
-MIDI Effect Rack
-MIDI Effect Rack
---
-Arpeggiator
-Arpeggiator
-
---
-Libre Arp
-LibreArp64 VST
-
-..
-
-
 /Audio Effects
 Audio Effect Rack
 Audio Effect Rack
@@ -616,47 +1393,259 @@ Audio Effect Rack
 //Delay && Loop
 Beat Repeat
 Beat Repeat
+Delay
+Delay
+Echo
+Echo
+Filter Delay
+Filter Delay
+Gated Delay
+Gated Delay
+Grain Delay
+Grain Delay
+Looper
+Looper
+Spectral Time
+Spectral Time
 ..
-
-//Drive & Color
+//Drive && Color
 Amp
 Amp
+Cabinet
+Cabinet
+Drum Buss
+Drum Buss
+Dynamic Tube
+Dynamic Tube
+Erosion
+Erosion
+Overdrive
+Overdrive
+Pedal
+Pedal
+Redux
+Redux
+Saturator
+Saturator
+Vinyl Distortion
+Vinyl Distortion
 ..
-
 //Dynamics
 Color Limiter
 Color Limiter
+Compressor
+Compressor
+Gate
+Gate
+Glue Compressor
+Glue Compressor
+Limiter
+Limiter
+Multiband Dynamics
+Multiband Dynamics
+Re-Enveloper
+Re-Enveloper
 ..
-
 //EQ && Filters
 Auto Filter
 Auto Filter
+Channel EQ
+Channel EQ
+EQ Eight
+EQ Eight
+EQ Three
+EQ Three
 ..
-
-//Modulators
-Envelope Follower
-Envelope Follower
-..
-
 //Pitch && Modulation
 Auto Pan
 Auto Pan
+Chorus-Ensemble
+Chorus-Ensemble
+Frequency Shifter
+Frequency Shifter
+Phaser-Flanger
+Phaser-Flanger
+Pitch Hack
+Pitch Hack
+Spectral Blur
+Spectral Blur
 ..
-
 //Reverb && Resonance
 Convolution Reverb
 Convolution Reverb
+Convolution Reverb Pro
+Convolution Reverb Pro
+Corpus
+Corpus
+Hybrid Reverb
+Hybrid Reverb
+Resonators
+Resonators
+Reverb
+Reverb
+Spectral Resonator
+Spectral Resonator
+Vocoder
+Vocoder
 ..
-
 //Utilities
+IR Measurement Device
+IR Measurement Device
 Spectrum
 Spectrum
+Surround Panner
+Surround Panner
+Tuner
+Tuner
+Utility
+Utility
 ..
 --
-//Favorites
-OTT
-OTT.adv
+//Distortion
+The Abuser
+The Abuser VST
 ..
+//Reverb
+XenoVerb
+XenoVerb VST
+..
+..
+/Modulators
+Envelope Follower
+Envelope Follower
+Envelope MIDI
+Envelope MIDI
+LFO
+"LFO.amxd"
+LFO MIDI
+"LFO MIDI.amxd"
+Shaper
+Shaper
+Expression Control
+Expression Control
+--
+Architect
+"Architect 1.0.1.amxd"
+--
+EXT3 (Envelopes)
+"EXT3.amxd"
+REF (Envelope Follower)
+"REF.amxd"
+TIP (Preset Selector & Randomizer)
+"TIP.amxd"
+TED FX (LFO)
+"TED FX.amxd"
+--
+//J74
+J74-EnvMorph
+"J74-EnvMorph.amxd"
+J74-JoyMorph
+"J74-JoyMorph.amxd"
+J74-LFOMorph
+"J74-LFOMorph.amxd"
+J74-LoopMorph
+"J74-LoopMorph.amxd"
+J74-MorphJ
+"J74-MorphJ.amxd"
+J74-ParamMorph
+"J74-ParamMorph.amxd"
+J74-ParamMorphRemote
+"J74-ParamMorphRemote.amxd"
+J74-PresetMorph
+"J74-PresetMorph.amxd"
+J74-SendMorph
+"J74-SendMorph.amxd"
+J74-SendMorphRemote
+"J74-SendMorphRemote.amxd"
+J74-TrackMorph
+"J74-TrackMorph.amxd"
+..
+..
+/MIDI Effects
+MIDI Effect Rack
+MIDI Effect Rack
+--
+Arpeggiator
+Arpeggiator
+Chord
+Chord
+Envelope MIDI
+Envelope MIDI
+Expression Control
+Expression Control
+Melodic Steps
+Melodic Steps
+MIDI Monitor
+MIDI Monitor
+MPE Control
+MPE Control
+Note Echo
+Note Echo
+Note Length
+Note Length
+Pitch
+Pitch
+Random
+Random
+Rotating Rhythm Generator
+Rotating Rhythm Generator
+Scale
+Scale
+Velocity
+Velocity
+--
+Libre Arp
+LibreArp64 VST
 ..
 
+--
+
+Drum Rack
+Drum Rack
+Instrument Rack
+Instrument Rack
+Audio Effect Rack
+Audio Effect Rack
+MIDI Effect Rack
+MIDI Effect Rack
+--
+
+External Instrument
+External Instrument
+External Audio Effect
+External Audio Effect
+--
+
+Max Instrument
+Max Instrument
+Max Audio Effect
+Max Audio Effect
+Max MIDI Effect
+Max MIDI Effect
+--
+
+CV Instrument
+CV Instrument
+CV In
+CV In
+CV Out
+CV Out
+CV Clock In
+CV Clock In
+CV Clock Out
+CV Clock Out
+CV Triggers
+CV Triggers
+CV Envelope Follower
+CV Envelope Follower
+CV LFO
+CV LFO
+CV Shaper
+CV Shaper
+CV Utility
+CV Utility
+--
+
+WAVE CANDY METERING
++GJ Wave Candy - METERING.adg
 End

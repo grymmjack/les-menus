@@ -1,0 +1,456 @@
+//Reason Effects
+Alligator
+ALLIGATOR.adg
+BV512 Vocoder
+BV512 VOCODER.adg
+Cf-101 Chorus Flanger
+CF-101 CHORUS FLANGER.adg
+Channel Dynamics - Comp
+CHANNEL DYNAMICS - COMP.adg
+Channel Dynamics - Expander
+CHANNEL DYNAMICS - EXPANDER.adg
+Channel Dynamics - Gate
+CHANNEL DYNAMICS - GATE.adg
+Channel EQ
+CHANNEL EQ.adg
+COMP-01 Make-Up Compressor
+COMP-01 MAKE-UP COMPRESSOR.adg
+D-11 Foldback Distortion
+D-11 FOLDBACK DISTORTION.adg
+DDL-1 Digital Delay Line
+DDL-1 DIGITAL DELAY LINE.adg
+ECF-42 Envelope Filter
+ECF-42 ENVELOPE FILTER.adg
+Master Bus Compressor
+MASTER BUS COMPRESSOR.adg
+Mclass Compressor
+MCLASS COMPRESSOR.adg
+Mclass Eq
+MCLASS EQ.adg
+Mclass Maximizer
+MCLASS MAXIMIZER.adg
+Mclass Stereo Imager
+MCLASS STEREO IMAGER.adg
+Neptune Pitch Adjuster
+NEPTUNE PITCH ADJUSTER.adg
+PEQ-2 Band Parametric Eq
+PEQ-2 BAND PARAMETRIC EQ.adg
+PH-90 Phaser
+PH-90 PHASER.adg
+Polar Dual Pitch Shifter
+POLAR DUAL PITCH SHIFTER.adg
+Rotor Rotary Speaker
+ROTOR ROTARY SPEAKER.adg
+Rv-7 Digital Reverb
+RV-7 DIGITAL REVERB.adg
+Softube Amp
+SOFTUBE AMP.adg
+Softube Bass Amp
+SOFTUBE BASS AMP.adg
+The Echo
+THE ECHO.adg
+UN-16 Unison
+UN-16 UNISON.adg
+--
+///Audiomatic
+Bottom
+AUDIOMATIC - BOTTOM.adg
+Bright
+AUDIOMATIC - BRIGHT.adg
+Circuit
+AUDIOMATIC - CIRCUIT.adg
+Cracked
+AUDIOMATIC - CRACKED.adg
+Eerie
+AUDIOMATIC - EERIE.adg
+Gadget
+AUDIOMATIC - GADGET.adg
+Hi-Fi
+AUDIOMATIC - HI-FI.adg
+MP3
+AUDIOMATIC - MP3.adg
+Psyche
+AUDIOMATIC - PSYCHE.adg
+PVC
+AUDIOMATIC - PVC.adg
+Radio
+AUDIOMATIC - RADIO.adg
+Spread
+AUDIOMATIC - SPREAD.adg
+Tape
+AUDIOMATIC - TAPE.adg
+VHS
+AUDIOMATIC - VHS.adg
+Vinyl
+AUDIOMATIC - VINYL.adg
+Wash
+AUDIOMATIC - WASH.adg
+..
+..
+///Complex-1
+Comb Delay
+COMPLEX-1 - COMB DELAY.adg
+Filter - HP
+COMPLEX-1 - FILTER - HP.adg
+Filter - LP
+COMPLEX-1 - FILTER - LP.adg
+Shaper
+COMPLEX-1 - SHAPER.adg
+..
+..
+///Kong
+Compressor
+KONG - COMPRESSOR.adg
+Filter - BP
+KONG - FILTER - BP.adg
+Filter - HP
+KONG - FILTER - HP.adg
+Filter - LP
+KONG - FILTER - LP.adg
+Parametric EQ
+KONG - PARAMETRIC EQ.adg
+Rattler
+KONG - RATTLER.adg
+Resonator - A
+KONG - RESONATOR - A.adg
+Resonator - B
+KONG - RESONATOR - B.adg
+Resonator - C
+KONG - RESONATOR - C.adg
+Resonator - D
+KONG - RESONATOR - D.adg
+Resonator - E
+KONG - RESONATOR - E.adg
+Ring Modulator
+KONG - RING MODULATOR.adg
+Room Reverb
+KONG - ROOM REVERB.adg
+Tape Echo
+KONG - TAPE ECHO.adg
+Transient Shaper
+KONG - TRANSIENT SHAPER.adg
+..
+..
+///Malstrom
+Filter - AM
+MALSTROM - FILTER - AM.adg
+Filter - BP12
+MALSTROM - FILTER - BP12.adg
+Filter - COMB-
+MALSTROM - FILTER - COMB-.adg
+Filter - COMB+
+MALSTROM - FILTER - COMB+.adg
+Filter - LP12
+MALSTROM - FILTER - LP12.adg
+Shaper - Clip
+MALSTROM - SHAPER - CLIP.adg
+Shaper - Noise
+MALSTROM - SHAPER - NOISE.adg
+Shaper - Quant
+MALSTROM - SHAPER - QUANT.adg
+Shaper - Saturate
+MALSTROM - SHAPER - SATURATE.adg
+Shaper - Sine
+MALSTROM - SHAPER - SINE.adg
+..
+..
+///Parsec
+Body Narrow
+PARSEC - BODY NARROW.adg
+Body Sweep Narrow
+PARSEC - BODY SWEEP NARROW.adg
+Body Sweep Wide
+PARSEC - BODY SWEEP WIDE.adg
+Body Wide
+PARSEC - BODY WIDE.adg
+Center Freq
+PARSEC - CENTER FREQ.adg
+Ensemble 1
+PARSEC - ENSEMBLE 1.adg
+Ensemble 2
+PARSEC - ENSEMBLE 2.adg
+Filter - Bandpass
+PARSEC - FILTER - BANDPASS.adg
+Filter - Brickwall BP
+PARSEC - FILTER - BRICKWALL BP.adg
+Filter - Brickwall Notch
+PARSEC - FILTER - BRICKWALL NOTCH.adg
+Filter - Comb Notch
+PARSEC - FILTER - COMB NOTCH.adg
+Filter - Comb Peak
+PARSEC - FILTER - COMB PEAK.adg
+Filter - Dual Band
+PARSEC - FILTER - DUAL BAND.adg
+Filter - FM
+PARSEC - FILTER - FM.adg
+Filter - HPF 24
+PARSEC - FILTER - HPF 24.adg
+Filter - LPF 12
+PARSEC - FILTER - LPF 12.adg
+Filter - LPF 24
+PARSEC - FILTER - LPF 24.adg
+Filter - Param EQ
+PARSEC - FILTER - PARAM EQ.adg
+Filter Curve
+PARSEC - FILTER CURVE.adg
+Harmonic Stretch
+PARSEC - HARMONIC STRETCH.adg
+Harmonics
+PARSEC - HARMONICS.adg
+Partial Filter
+PARSEC - PARTIAL FILTER.adg
+Pitch Curve
+PARSEC - PITCH CURVE.adg
+Pitch Warp
+PARSEC - PITCH WARP.adg
+PWM
+PARSEC - PWM.adg
+Raw
+PARSEC - RAW.adg
+Sync
+PARSEC - SYNC.adg
+Unison
+PARSEC - UNISON.adg
+Voice
+PARSEC - VOICE.adg
+..
+..
+///Processed Pianos
+Chorus
+PROCESSED PIANOS - CHORUS.adg
+Compressor
+PROCESSED PIANOS - COMPRESSOR.adg
+Filter - BP
+PROCESSED PIANOS - FILTER - BP.adg
+Filter - Comb-
+PROCESSED PIANOS - FILTER - COMB-.adg
+Filter - Comb+
+PROCESSED PIANOS - FILTER - COMB+.adg
+Filter - HP
+PROCESSED PIANOS - FILTER - HP.adg
+Filter - LP12
+PROCESSED PIANOS - FILTER - LP12.adg
+Filter - LP24
+PROCESSED PIANOS - FILTER - LP24.adg
+Freq-Shifter
+PROCESSED PIANOS - FREQ-SHIFTER.adg
+Lo-Fi
+PROCESSED PIANOS - LO-FI.adg
+Multi-Tap Echo
+PROCESSED PIANOS - MULTI-TAP ECHO.adg
+Reverb
+PROCESSED PIANOS - REVERB.adg
+..
+..
+///Pulveriser
+Band Pass
+PULVERISER - BAND PASS.adg
+Bypass
+PULVERISER - BYPASS.adg
+Comb
+PULVERISER - COMB.adg
+High Pass
+PULVERISER - HIGH PASS.adg
+Low Pass 12 + Notch
+PULVERISER - LOW PASS 12 + NOTCH.adg
+Low Pass 24
+PULVERISER - LOW PASS 24.adg
+..
+..
+///Quartet Chorus
+BBD Ensemble
+QUARTET - BBD ENSEMBLE.adg
+Chorus
+QUARTET - CHORUS.adg
+FFT Ensemble
+QUARTET - FFT ENSEMBLE.adg
+Grain Ensemble
+QUARTET - GRAIN ENSEMBLE.adg
+..
+..
+///Radical Piano
+Key Processor FX
+RADICAL PIANO - KEY PROCESSOR FX.adg
+..
+..
+///Rv7000 MKII Reverb
+Delay - Echo
+RV7000 - DELAY - ECHO.adg
+Delay - Multi-Tap
+RV7000 - DELAY - MULTI-TAP.adg
+Reverb - Arena
+RV7000 - REVERB - ARENA.adg
+Reverb - Convolution
+RV7000 - REVERB - CONVOLUTION.adg
+Reverb - Hall
+RV7000 - REVERB - HALL.adg
+Reverb - Plate
+RV7000 - REVERB - PLATE.adg
+Reverb - Reverse
+RV7000 - REVERB - REVERSE.adg
+Reverb - Room
+RV7000 - REVERB - ROOM.adg
+Reverb - Small Space
+RV7000 - REVERB - SMALL SPACE.adg
+Reverb - Spring
+RV7000 - REVERB - SPRING.adg
+..
+..
+///Scenic
+Chorus
+SCENIC - CHORUS.adg
+Echo
+SCENIC - ECHO.adg
+Master Compressor
+SCENIC - MASTER COMPRESSOR.adg
+Master Reverb - Concrete
+SCENIC - MASTER REVERB - CONCRETE.adg
+Master Reverb - Dark Chamber
+SCENIC - MASTER REVERB - DARK CHAMBER.adg
+Master Reverb - Dense
+SCENIC - MASTER REVERB - DENSE.adg
+Master Reverb - Haze
+SCENIC - MASTER REVERB - HAZE.adg
+Master Reverb - Mid Room
+SCENIC - MASTER REVERB - MID ROOM.adg
+Master Reverb - Offworld
+SCENIC - MASTER REVERB - OFFWORLD.adg
+Master Reverb - Plate
+SCENIC - MASTER REVERB - PLATE.adg
+Master Reverb - Reflector
+SCENIC - MASTER REVERB - REFLECTOR.adg
+Master Reverb - Small Room
+SCENIC - MASTER REVERB - SMALL ROOM.adg
+Master Reverb - Stage
+SCENIC - MASTER REVERB - STAGE.adg
+Master Reverb - Traveler
+SCENIC - MASTER REVERB - TRAVELER.adg
+Phaser
+SCENIC - PHASER.adg
+Reverb
+SCENIC - REVERB.adg
+Saturation
+SCENIC - SATURATION.adg
+Tone Shaper
+SCENIC - TONE SHAPER.adg
+..
+..
+///Scream 4
+Digital
+SCREAM - DIGITAL.adg
+Distortion
+SCREAM - DISTORTION.adg
+Feedback
+SCREAM - FEEDBACK.adg
+Fuzz
+SCREAM - FUZZ.adg
+Modulate
+SCREAM - MODULATE.adg
+Overdrive
+SCREAM - OVERDRIVE.adg
+Scream
+SCREAM - SCREAM.adg
+Tape
+SCREAM - TAPE.adg
+Tube
+SCREAM - TUBE.adg
+Warp
+SCREAM - WARP.adg
+..
+..
+///Sweeper
+Filter - K35 LP 12 DB
+SWEEPER - FILTER - K35 LP 12 DB.adg
+Filter - Ladder LP 24 DB
+SWEEPER - FILTER - LADDER LP 24 DB.adg
+Filter - M Feedback HP 24 DB
+SWEEPER - FILTER - M FEEDBACK HP 24 DB.adg
+Filter - M Feedback LP 12 DB
+SWEEPER - FILTER - M FEEDBACK LP 12 DB.adg
+Filter - M Feedback LP 24 DB
+SWEEPER - FILTER - M FEEDBACK LP 24 DB.adg
+Filter - Notch 12 DB
+SWEEPER - FILTER - NOTCH 12 DB.adg
+Filter - SVF BP 12 DB
+SWEEPER - FILTER - SVF BP 12 DB.adg
+Filter - SVF HP 12 DB
+SWEEPER - FILTER - SVF HP 12 DB.adg
+Filter - SVF LP 12 DB
+SWEEPER - FILTER - SVF LP 12 DB.adg
+Flanger
+SWEEPER - FLANGER.adg
+Phaser
+SWEEPER - PHASER.adg
+..
+..
+///Synchronous
+Delay
+SYNCHRONOUS - DELAY.adg
+Distortion
+SYNCHRONOUS - DISTORTION.adg
+Filter
+SYNCHRONOUS - FILTER.adg
+Reverb
+SYNCHRONOUS - REVERB.adg
+..
+..
+///Thor
+Chorus
+THOR - CHORUS.adg
+Delay
+THOR - DELAY.adg
+Filter - Comb
+THOR - FILTER - COMB.adg
+Filter - Formant
+THOR - FILTER - FORMANT.adg
+Filter - LPF 12
+THOR - FILTER - LPF 12.adg
+Filter - LPF 18
+THOR - FILTER - LPF 18.adg
+Filter - LPF 24 Type I
+THOR - FILTER - LPF 24 TYPE I.adg
+Filter - LPF 24 Type II
+THOR - FILTER - LPF 24 TYPE II.adg
+Filter - LPF 6
+THOR - FILTER - LPF 6.adg
+Filter - SPF BP 12
+THOR - FILTER - SPF BP 12.adg
+Filter - SPF HP 12
+THOR - FILTER - SPF HP 12.adg
+Filter - SPF LP 12
+THOR - FILTER - SPF LP 12.adg
+Filter - SPF NOTCH
+THOR - FILTER - SPF NOTCH.adg
+Filter - SPF PEAK
+THOR - FILTER - SPF PEAK.adg
+..
+..
+///Umpf
+Gated Reverb
+UMPF - GATED REVERB.adg
+Reverb - Creative Reverse
+UMPF - REVERB - CREATIVE REVERSE.adg
+Reverb - Disperssive
+UMPF - REVERB - DISPERSSIVE.adg
+Reverb - Impact Room
+UMPF - REVERB - IMPACT ROOM.adg
+Reverb - Long
+UMPF - REVERB - LONG.adg
+Reverb - Medium Long
+UMPF - REVERB - MEDIUM LONG.adg
+Reverb - Metalic
+UMPF - REVERB - METALIC.adg
+Reverb - Short
+UMPF - REVERB - SHORT.adg
+Reverb - Snare Plate
+UMPF - REVERB - SNARE PLATE.adg
+Reverb - Very Long
+UMPF - REVERB - VERY LONG.adg
+Reverb - Washy
+UMPF - REVERB - WASHY.adg
+Tape
+UMPF - TAPE.adg
+Tape Echo
+UMPF - TAPE ECHO.adg
+..
+..

@@ -1,39 +1,110 @@
 //Delay && Loop
 Beat Repeat
 Beat Repeat
+Delay
+Delay
+Echo
+Echo
+Filter Delay
+Filter Delay
+Gated Delay
+Gated Delay
+Grain Delay
+Grain Delay
+Looper
+Looper
+Spectral Time
+Spectral Time
 ..
-
-//Drive & Color
+//Drive && Color
 Amp
 Amp
+Cabinet
+Cabinet
+Drum Buss
+Drum Buss
+Dynamic Tube
+Dynamic Tube
+Erosion
+Erosion
+Overdrive
+Overdrive
+Pedal
+Pedal
+Redux
+Redux
+Saturator
+Saturator
+Vinyl Distortion
+Vinyl Distortion
 ..
-
 //Dynamics
 Color Limiter
 Color Limiter
+Compressor
+Compressor
+Gate
+Gate
+Glue Compressor
+Glue Compressor
+Limiter
+Limiter
+Multiband Dynamics
+Multiband Dynamics
+Re-Enveloper
+Re-Enveloper
 ..
-
 //EQ && Filters
 Auto Filter
 Auto Filter
+Channel EQ
+Channel EQ
+EQ Eight
+EQ Eight
+EQ Three
+EQ Three
 ..
-
-//Modulators
-Envelope Follower
-Envelope Follower
-..
-
 //Pitch && Modulation
 Auto Pan
 Auto Pan
+Chorus-Ensemble
+Chorus-Ensemble
+Frequency Shifter
+Frequency Shifter
+Phaser-Flanger
+Phaser-Flanger
+Pitch Hack
+Pitch Hack
+Spectral Blur
+Spectral Blur
 ..
-
 //Reverb && Resonance
 Convolution Reverb
 Convolution Reverb
+Convolution Reverb Pro
+Convolution Reverb Pro
+Corpus
+Corpus
+Hybrid Reverb
+Hybrid Reverb
+Resonators
+Resonators
+Reverb
+Reverb
+Spectral Resonator
+Spectral Resonator
+Vocoder
+Vocoder
 ..
-
 //Utilities
+IR Measurement Device
+IR Measurement Device
 Spectrum
 Spectrum
+Surround Panner
+Surround Panner
+Tuner
+Tuner
+Utility
+Utility
 ..
