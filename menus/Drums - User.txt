@@ -198,19 +198,19 @@ REASON Drum Kits
 REASON DRUM KITS.adg
 ..
 //KORG Gadget
-AbuDhabi - Dynamic Loop Slicer
+ABUDHABI Dynamic Loop Slicer
 AbuDhabi
-Bilbao - Lightning Sampler Player
+BILBAO Lightning Sampler Player
 Bilbao VST
-Gladstone - Acoustic Drum Module
+GLADSTONE Acoustic Drum Module
 Gladstone VST
-London - Hypersonic PCM Drum Modul
+LONDON Hypersonic PCM Drum Module
 London VST
-Otorii - Arcade Drum Machine
+OTORII Arcade Drum Machine
 Otorii VST
-Recife - Futuristic Drum Module
+RECIFE Futuristic Drum Module
 Recife VST
-Stockholm - Octo-Sample Loop Player
+STOCKHOLM Octo-Sample Loop Player
 Stockholm VST
 ..
 //Beatskillz

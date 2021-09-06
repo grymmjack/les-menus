@@ -39,6 +39,18 @@ rm -f "${MENU_FILE}"
         printf "\n..";                                                  # }
         printf "\n--\n";                                                # --
 
+    printf "/KORG Gadgets";                                             # KORG Gadgets {
+        printf "\n";                                                    #
+        cat "KORG Gadget.txt";                                          #    KORG Gadget
+        printf "\n..";                                                  # }
+        printf "\n--\n";                                                # --
+
+    printf "/Soundtoys";                                                # Soundtoys {
+        printf "\n";                                                    #
+        cat "Soundtoys.txt";                                            #    Soundtoys
+        printf "\n..";                                                  # }
+        printf "\n--\n";                                                # --
+
     printf "/Instruments";                                              # Instruments {
         printf "\nInstrument Rack\nInstrument Rack";                    #    Instrument Rack
         printf "\n--\n";                                                #    --

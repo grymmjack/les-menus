@@ -1,10 +1,4 @@
 //Reason Effects
-Alligator
-ALLIGATOR.adg
-BV512 Vocoder
-BV512 VOCODER.adg
-Cf-101 Chorus Flanger
-CF-101 CHORUS FLANGER.adg
 Channel Dynamics - Comp
 CHANNEL DYNAMICS - COMP.adg
 Channel Dynamics - Expander
@@ -13,6 +7,40 @@ Channel Dynamics - Gate
 CHANNEL DYNAMICS - GATE.adg
 Channel EQ
 CHANNEL EQ.adg
+Master Bus Compressor
+MASTER BUS COMPRESSOR.adg
+--
+MCLASS Compressor
+MCLASS COMPRESSOR.adg
+MCLASS EQ
+MCLASS EQ.adg
+MCLASS Maximizer
+MCLASS MAXIMIZER.adg
+MCLASS Stereo Imager
+MCLASS STEREO IMAGER.adg
+--
+Softube Amp
+SOFTUBE AMP.adg
+Softube Bass Amp
+SOFTUBE BASS AMP.adg
+--
+Alligator
+ALLIGATOR.adg
+The Echo
+THE ECHO.adg
+Neptune Pitch Adjuster
+NEPTUNE PITCH ADJUSTER.adg
+Polar Dual Pitch Shifter
+POLAR DUAL PITCH SHIFTER.adg
+Rotor Rotary Speaker
+ROTOR ROTARY SPEAKER.adg
+RV-7 Digital Reverb
+RV-7 DIGITAL REVERB.adg
+BV512 Vocoder
+BV512 VOCODER.adg
+--
+CF-101 Chorus Flanger
+CF-101 CHORUS FLANGER.adg
 COMP-01 Make-Up Compressor
 COMP-01 MAKE-UP COMPRESSOR.adg
 D-11 Foldback Distortion
@@ -21,34 +49,10 @@ DDL-1 Digital Delay Line
 DDL-1 DIGITAL DELAY LINE.adg
 ECF-42 Envelope Filter
 ECF-42 ENVELOPE FILTER.adg
-Master Bus Compressor
-MASTER BUS COMPRESSOR.adg
-Mclass Compressor
-MCLASS COMPRESSOR.adg
-Mclass Eq
-MCLASS EQ.adg
-Mclass Maximizer
-MCLASS MAXIMIZER.adg
-Mclass Stereo Imager
-MCLASS STEREO IMAGER.adg
-Neptune Pitch Adjuster
-NEPTUNE PITCH ADJUSTER.adg
 PEQ-2 Band Parametric Eq
 PEQ-2 BAND PARAMETRIC EQ.adg
 PH-90 Phaser
 PH-90 PHASER.adg
-Polar Dual Pitch Shifter
-POLAR DUAL PITCH SHIFTER.adg
-Rotor Rotary Speaker
-ROTOR ROTARY SPEAKER.adg
-Rv-7 Digital Reverb
-RV-7 DIGITAL REVERB.adg
-Softube Amp
-SOFTUBE AMP.adg
-Softube Bass Amp
-SOFTUBE BASS AMP.adg
-The Echo
-THE ECHO.adg
 UN-16 Unison
 UN-16 UNISON.adg
 --

@@ -1,0 +1,87 @@
+ABUDHABI Dynamic Loop Slicer
+AbuDhabi VST
+ALEXANDRIA Legendary Vintage Organ
+Alexandria VST
+AMSTERDAM PCM SFX Boombox
+Amsterdam VST
+BERLIN Mono Synch Synth
+Berlin VST
+BILBAO Lightning Sample Player
+Bilbao VST
+BRUSSELS Mono Anthem Synth
+Brussels VST
+CHIANGMAI Variable Phase Modulation Synth
+Chiangmai VST
+CHICAGO Tube Bass Machine
+Chicago VST
+DARWIN KORG M1 Mini
+Darwin VST
+DUBLIN Analog Mono Synth
+Dublin VST
+EBINA TAITO Arcade Synth
+Ebina VST
+FAIRBANKS Hybrid Digital Synth
+Fairbanks VST
+FIRENZE Funky Electric Keyboard
+Firenze VST
+GLADSTONE Acoustic Drum Module
+Gladstone VST
+GLASGOW Superior PCM Synth
+Glasgow VST
+HELSINKI Poly Ambient Synth
+Helsinki VST
+KAMATA Wave Table Synth
+Kamata VST
+KIEV Advanced Spatial Digital Synth
+Kiev VST
+KINGSTON Poly Chip Synth
+Kingston VST
+LEXINGTON Duophonic Analogue Synth
+Lexington VST
+LISBON Poly Sci-Fi Synth
+Lisbon VST
+LONDON Hypersonic PCM Drum Module
+London VST
+MADRID Dynamic Bass Machine
+Madrid VST
+MARSEILLE Poly PCM Synth
+Marseille VST
+MEMPHIS Semi-Modular Analog Synth
+Memphis VST
+MIAMI Mono Wobble Synth
+Miami VST
+MILPITAS Wave Sequence Synth
+Milpitas VST
+MONTPELLIER 4 VCO Analog Synth
+Montpellier VST
+MONTREAL Vintage Electric Piano
+Montreal VST
+OTORII Arcade Drum Machine
+Otorii VST
+PHOENIX Poly Analog Synth
+Phoenix VST
+POMPEI 6 Voice Analog Synth
+Pompei VST
+RECIFE Futuristic Drum Module
+Recife VST
+SALZBURG Premium Acoustic Piano
+Salzburg VST
+STOCKHOLM Octo-Sample Loop Player
+Stockholm VST
+TAIPEI MIDI-Out Control Module
+Taipei VST
+TOKYO Analog Percussion Synth
+Gadget Tokyo VST
+VANCOUVER Layering Melody Sampler
+Vancouver VST
+WARSZAWA Sophisticated Wavetable Synth
+Warszawa VST
+WOLFSBURG Hybrid Poly Synth
+Wolfsburg VST
+--
+DURBAN Bass Effect Processor
+Durban VST
+ROSARIO Guitar Effect Processor
+Rosario VST
+ZURICH Multi FX Unit
+Zurich VST

@@ -124,6 +124,8 @@ CODEX Stereo VST
 //Samplers
 TAL Sampler
 TAL-Sampler-64 VST
+HALion 4
+"STEINBERG - HALION 4.adg"
 ..
 //Modular
 KarmaFX Synth
@@ -136,4 +138,8 @@ Arturia Modular V3
 Arturia Modular V3 VST
 Arturia Buchla Easel V
 Buchla Easel V VST
+..
+//Workstations
+HALion Sonic 2
+"STEINBERG - HALION SONIC.adg"
 ..

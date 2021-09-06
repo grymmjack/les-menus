@@ -1,6 +1,280 @@
+//Serum FX
+Serum FX
+SerumFX_x64 VST
+--
+///Serum FX Distortion
+ASYM
+SERUM FX - DISTORTION - ASYM.adg
+Diode 1
+SERUM FX - DISTORTION - DIODE 1.adg
+Diode 2
+SERUM FX - DISTORTION - DIODE 2.adg
+Downsample
+SERUM FX - DISTORTION - DOWNSAMPLE.adg
+Hard Clip
+SERUM FX - DISTORTION - HARD CLIP.adg
+Lin. Fold
+SERUM FX - DISTORTION - LIN. FOLD.adg
+Rectify
+SERUM FX - DISTORTION - RECTIFY.adg
+Sin Fold
+SERUM FX - DISTORTION - SIN FOLD.adg
+Sine Shaper
+SERUM FX - DISTORTION - SINE SHAPER.adg
+Soft Clip
+SERUM FX - DISTORTION - SOFT CLIP.adg
+Stomp Box
+SERUM FX - DISTORTION - STOMP BOX.adg
+Tape Sat.
+SERUM FX - DISTORTION - TAPE SAT.adg
+Tube
+SERUM FX - DISTORTION - TUBE.adg
+X-Shaper
+SERUM FX - DISTORTION - X-SHAPER.adg
+X-Shaper Asym
+SERUM FX - DISTORTION - X-SHAPER ASYM.adg
+Zero-Square
+SERUM FX - DISTORTION - ZERO-SQUARE.adg
+..
+..
+///Serum FX Hyper
+Subtle
+"SERUM FX - HYPER - SUBTLE.adg"
+Less Subtle
+"SERUM FX - HYPER - LESS SUBTLE.adg"
+Extreme
+"SERUM FX - HYPER - EXTREME.adg"
+Too Much
+"SERUM FX - HYPER - TOO MUCH.adg"
+Everything
+"SERUM FX - HYPER - EVERYTHING.adg"
+..
+..
+///Serum FX Flanger
+Boring
+"SERUM FX - FLANGER - BORING.adg"
+Good Start
+"SERUM FX - FLANGER - GOOD START.adg"
+Prodigous
+"SERUM FX - FLANGER - PRODIGOUS.adg"
+Quarters
+"SERUM FX - FLANGER - QUARTERS.adg"
+50 Cents
+"SERUM FX - FLANGER - 50 CENTS.adg"
+Mars Attacks!
+"SERUM FX - FLANGER - MARS ATTACKS!.adg"
+..
+..
+///Serum FX Phaser
+Four Bar Chill
+"SERUM FX - PHASER - FOUR BAR CHILL.adg"
+Phasey
+"SERUM FX - PHASER - PHASEY.adg"
+Slow
+"SERUM FX - PHASER - SLOW.adg"
+Syrupy
+"SERUM FX - PHASER - SYRUPY.adg"
+Talky
+"SERUM FX - PHASER - TALKY.adg"
+They Live
+"SERUM FX - PHASER - THEY LIVE.adg"
+..
+..
+///Serum FX Chorus
+Butter
+"SERUM FX - CHORUS - BUTTER.adg"
+Drunk Darnk
+"SERUM FX - CHORUS - DRUNK DARNK.adg"
+Hungry As A Wof
+"SERUM FX - CHORUS - HUNGRY AS A WOF.adg"
+Swankfritter
+"SERUM FX - CHORUS - SWANKFRITTER.adg"
+Washed Up
+"SERUM FX - CHORUS - WASHED UP.adg"
+Wide Child
+"SERUM FX - CHORUS - WIDE CHILD.adg"
+Wider Childer
+"SERUM FX - CHORUS - WIDER CHILDER.adg"
+..
+..
+///Serum FX Delay
+Normal 1-16
+"SERUM FX - DELAY - NORMAL 1-16.adg"
+Normal 1-2
+"SERUM FX - DELAY - NORMAL 1-2.adg"
+Normal 1-4
+"SERUM FX - DELAY - NORMAL 1-4.adg"
+Normal 1-8
+"SERUM FX - DELAY - NORMAL 1-8.adg"
+Ping-Pong 1-2
+"SERUM FX - DELAY - PING-PONG 1-2.adg"
+Ping-Pong 1-4
+"SERUM FX - DELAY - PING-PONG 1-4.adg"
+Tap Delay 1-4
+"SERUM FX - DELAY - TAP DELAY 1-4.adg"
+Tap Delay 1-4 Offset
+"SERUM FX - DELAY - TAP DELAY 1-4 OFFSET.adg"
+Tap Delay FB
+"SERUM FX - DELAY - TAP DELAY FB.adg"
+..
+..
+///Serum FX Compressor
+Mild Comp
+"SERUM FX - COMPRESSOR - MILD COMP.adg"
+Ny Comp
+"SERUM FX - COMPRESSOR - NY COMP.adg"
+MB Comp
+"SERUM FX - COMPRESSOR - MB COMP.adg"
+Limit -3.5
+"SERUM FX - COMPRESSOR - LIMIT -3.5.adg"
+Mb Limit -3.5
+"SERUM FX - COMPRESSOR - MB LIMIT -3.5.adg"
+Less Silly
+"SERUM FX - COMPRESSOR - LESS SILLY.adg"
+Silly Gain
+"SERUM FX - COMPRESSOR - SILLY GAIN.adg"
+MB Aggressive
+"SERUM FX - COMPRESSOR - MB AGGRESSIVE.adg"
+MB Noisey
+"SERUM FX - COMPRESSOR - MB NOISEY.adg"
+MB Tighter
+"SERUM FX - COMPRESSOR - MB TIGHTER.adg"
+Chain - TIght Limited MB
+"SERUM FX - CHAIN - TIGHT LIMITED MB.adg"
+..
+..
+///Serum FX Reverb
+Small Plate
+"SERUM FX - REVERB - SMALL PLATE.adg"
+Medium Plate
+"SERUM FX - REVERB - MEDIUM PLATE.adg"
+Large Plate
+"SERUM FX - REVERB - LARGE PLATE.adg"
+Micro Space
+"SERUM FX - REVERB - MICRO SPACE.adg"
+Nano Space
+"SERUM FX - REVERB - NANO SPACE.adg"
+Small Pumps
+"SERUM FX - REVERB - SMALL PUMPS.adg"
+Big Pumps
+"SERUM FX - REVERB - BIG PUMPS.adg"
+Chain - Nano Space MB Noisey
+"SERUM FX - CHAIN - NANO SPACE MB NOISEY.adg"
+..
+..
+///Serum FX EQ
+Lift
+"SERUM FX - EQ - LIFT.adg"
+Boost
+"SERUM FX - EQ - BOOST.adg"
+Thump
+"SERUM FX - EQ - THUMP.adg"
+Low High
+"SERUM FX - EQ - LOW HIGH.adg"
+Tilt High
+"SERUM FX - EQ - TILT HIGH.adg"
+Tilt Low
+"SERUM FX - EQ - TILT LOW.adg"
+Bass Presence
+"SERUM FX - EQ - BASS PRESENCE.adg"
+High Presence
+"SERUM FX - EQ - HIGH PRESENCE.adg"
+Reso Bass
+"SERUM FX - EQ - RESO BASS.adg"
+Reso High
+"SERUM FX - EQ - RESO HIGH.adg"
+Grumpy Cat
+"SERUM FX - EQ - GRUMPY CAT.adg"
+Resonant Peak
+"SERUM FX - EQ - RESONANT PEAK.adg"
+..
+..
+///Serum FX Filter
+Low 6
+"SERUM FX - FILTER - LOW 6.adg"
+Low 12
+"SERUM FX - FILTER - LOW 12.adg"
+Low 18
+"SERUM FX - FILTER - LOW 18.adg"
+Low 24
+"SERUM FX - FILTER - LOW 24.adg"
+MG Low 12
+"SERUM FX - FILTER - MG LOW 12.adg"
+High 12
+"SERUM FX - FILTER - HIGH 12.adg"
+High 24
+"SERUM FX - FILTER - HIGH 24.adg"
+Band 12
+"SERUM FX - FILTER - BAND 12.adg"
+Band 24
+"SERUM FX - FILTER - BAND 24.adg"
+Peak 12
+"SERUM FX - FILTER - PEAK 12.adg"
+Peak 24
+"SERUM FX - FILTER - PEAK 24.adg"
+Notch 12
+"SERUM FX - FILTER - NOTCH 12.adg"
+Notch 24
+"SERUM FX - FILTER - NOTCH 24.adg"
+Cmb+
+"SERUM FX - FILTER - CMB+.adg"
+Cmb+ Extra
+"SERUM FX - FILTER - CMB+ EXTRA.adg"
+Flg+
+"SERUM FX - FILTER - FLG+.adg"
+Phs 12+
+"SERUM FX - FILTER - PHS 12+.adg"
+Phs 24+
+"SERUM FX - FILTER - PHS 24+.adg"
+Ring Mod
+"SERUM FX - FILTER - RING MOD.adg"
+Ring Mod X2
+"SERUM FX - FILTER - RING MOD X2.adg"
+Samphold
+"SERUM FX - FILTER - SAMPHOLD.adg"
+Combs
+"SERUM FX - FILTER - COMBS.adg"
+Allpasses
+"SERUM FX - FILTER - ALLPASSES.adg"
+Reverb
+"SERUM FX - FILTER - REVERB.adg"
+French LP
+"SERUM FX - FILTER - FRENCH LP.adg"
+German LP
+"SERUM FX - FILTER - GERMAN LP.adg"
+Formant-I
+"SERUM FX - FILTER - FORMANT-I.adg"
+Formant-II
+"SERUM FX - FILTER - FORMANT-II.adg"
+Formant-III
+"SERUM FX - FILTER - FORMANT-III.adg"
+Bandreject
+"SERUM FX - FILTER - BANDREJECT.adg"
+Dist Comb LP
+"SERUM FX - FILTER - DIST COMB LP.adg"
+Dist Comb LP 2
+"SERUM FX - FILTER - DIST COMB LP 2.adg"
+Scream LP
+"SERUM FX - FILTER - SCREAM LP.adg"
+Scream HP
+"SERUM FX - FILTER - SCREAM HP.adg"
+..
+..
+--
+..
 //Distortion
 The Abuser
 The Abuser VST
+..
+//Exciters
+BBE Harmonic Maximizer
+"BBE - HARMONIC MAXIMIZER.ADG"
+BBE Loudness Maximizer
+"BBE - LOUDNESS MAXIMIZER.ADG"
+BBE Mach 3 Bass
+"BBE - MACH 3 BASS.ADG"
+BBE Sonic Maximizer
+"BBE - SONIC MAXIMIZER.ADG"
 ..
 //Reverb
 XenoVerb
